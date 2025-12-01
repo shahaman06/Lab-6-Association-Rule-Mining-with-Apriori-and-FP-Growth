@@ -1,0 +1,1813 @@
+support,itemsets,length
+0.11107288543765666,frozenset({'white hanging heart t-light holder'}),1
+0.022558608148621418,frozenset({'knitted union flag hot water bottle'}),1
+0.02108418931537819,frozenset({'red woolly hottie white heart.'}),1
+0.01867597188774758,frozenset({'set 7 babushka nesting boxes'}),1
+0.015088219393522386,frozenset({'white metal lantern'}),1
+0.013957831621369243,frozenset({'cream cupid hearts coat hanger'}),1
+0.02354155403745024,frozenset({'hand warmer union jack'}),1
+0.07150931341229665,frozenset({'assorted colour bird ornament'}),1
+0.03818744778099965,frozenset({'home building block word'}),1
+0.030913648203666388,frozenset({'love building block word'}),1
+0.029488376664864598,frozenset({'doormat new england'}),1
+0.022067135204207007,frozenset({'feltcraft princess charlotte doll'}),1
+0.021428220376468275,"frozenset({""poppy's playhouse kitchen""})",1
+0.020789305548729542,"frozenset({""poppy's playhouse bedroom""})",1
+0.013122327615864746,frozenset({'box of vintage alphabet blocks'}),1
+0.011598761488180075,frozenset({'box of vintage jigsaw blocks'}),1
+0.010370079127144051,frozenset({'box of 6 assorted colour teaspoons'}),1
+0.05568388460215265,frozenset({'jam making set with jars'}),1
+0.01326976949918907,frozenset({'bath building block word'}),1
+0.055339853541062564,frozenset({'postage'}),1
+0.05165380645795449,frozenset({'alarm clock bakelike red'}),1
+0.04816434855261218,frozenset({'alarm clock bakelike green'}),1
+0.0442325649972969,frozenset({'spaceboy lunch box'}),1
+0.041726052980783405,frozenset({'red toadstool led night light'}),1
+0.0384823315476483,frozenset({'alarm clock bakelike pink'}),1
+0.03597581953113481,frozenset({'round snack boxes set of4 woodland'}),1
+0.03474713717009879,frozenset({'lunch box i love london'}),1
+0.029881555020396126,frozenset({'vintage heads and tails card game'}),1
+0.026195507937288053,frozenset({'set 2 tea towels i love london'}),1
+0.020396127193198013,frozenset({'charlotte bag dolly girl design'}),1
+0.019511475893252077,frozenset({'circus parade lunch box'}),1
+0.019364034009927752,frozenset({'set/2 red retrospot tea towels'}),1
+0.01867597188774758,frozenset({'mini paint set vintage'}),1
+0.05701086155207156,"frozenset({""paper chain kit 50's christmas""})",1
+0.0540620238855851,frozenset({'wooden picture frame white finish'}),1
+0.04772202290263921,frozenset({'wooden frame antique white'}),1
+0.026686980881702464,frozenset({'wood 2 drawer cabinet white finish'}),1
+0.019806359659900723,frozenset({'wood s/3 cabinet ant white finish'}),1
+0.017545584115594436,frozenset({'save the planet mug'}),1
+0.016022017987909764,frozenset({'edwardian parasol red'}),1
+0.03641814518110778,frozenset({'red hanging heart t-light holder'}),1
+0.03160171032584656,frozenset({'hot water bottle tea and sympathy'}),1
+0.07686636850641372,frozenset({'lunch bag red retrospot'}),1
+0.06487442866270211,frozenset({'pack of 72 retrospot cake cases'}),1
+0.05986140462967514,frozenset({'jumbo bag pink polkadot'}),1
+0.058190396618666144,frozenset({'jumbo storage bag suki'}),1
+0.04585442571386445,frozenset({'jumbo  bag baroque black white'}),1
+0.04270899886961223,frozenset({'pack of 60 pink paisley cake cases'}),1
+0.04251240969184646,frozenset({'jumbo bag pink vintage paisley'}),1
+0.04069395979751315,frozenset({'60 teatime fairy cake cases'}),1
+0.0354843465867204,frozenset({'strawberry charlotte bag'}),1
+0.02953752395930604,frozenset({'pack of 60 dinosaur cake cases'}),1
+0.028259694303828575,frozenset({'strawberry lunch box with cutlery'}),1
+0.025900624170639406,frozenset({'set/6 red spotty paper plates'}),1
+0.02368899592077456,frozenset({'lunch box with cutlery retrospot'}),1
+0.014744188332432299,frozenset({'jumbo bag charlie and lola toys'}),1
+0.057109156140954444,frozenset({'jam making set printed'}),1
+0.05774807096869317,frozenset({'jumbo shopper vintage red paisley'}),1
+0.04727969725266624,frozenset({'retrospot tea set ceramic 11 pc'}),1
+0.03730279648105372,frozenset({'gin + tonic diet metal sign'}),1
+0.035533493881161844,frozenset({'cook with wine metal sign'}),1
+0.02997984960927901,frozenset({'paper chain kit retrospot'}),1
+0.02653953899837814,frozenset({'edwardian parasol natural'}),1
+0.02467194180960338,frozenset({'doormat fancy font home sweet home'}),1
+0.02211628249864845,"frozenset({""you're confusing me metal sign""})",1
+0.021673956848675482,frozenset({'clear drawer knob acrylic edwardian'}),1
+0.02019953801543225,frozenset({'skull shoulder bag'}),1
+0.02010124342654937,frozenset({'white spot red ceramic drawer knob'}),1
+0.019265739421044873,frozenset({'ceramic strawberry cake money bank'}),1
+0.0188234137710719,frozenset({'edwardian parasol black'}),1
+0.0166609328156485,frozenset({'retrospot large milk jug'}),1
+0.01621860716567553,frozenset({'piggy bank retrospot'}),1
+0.01430186268245933,"frozenset({'airline lounge,metal sign'})",1
+0.013613800560279157,frozenset({'ceramic cherry cake money bank'}),1
+0.013220622204747628,frozenset({'zinc willie winkie  candle stick'}),1
+0.036762176242197867,frozenset({'recycling bag retrospot'}),1
+0.02305008109303583,frozenset({'toy tidy pink polkadot'}),1
+0.019560623187693516,frozenset({'vintage snakes & ladders'}),1
+0.013122327615864746,frozenset({'antique glass dressing table pot'}),1
+0.06138497075735981,frozenset({'natural slate heart chalkboard'}),1
+0.05902590062417064,frozenset({'heart of wicker small'}),1
+0.045510394652774365,frozenset({'heart of wicker large'}),1
+0.033665896692387086,frozenset({'wood black board ant white finish'}),1
+0.03052046984813486,frozenset({'colour glass t-light holder hanging'}),1
+0.025753182287315084,frozenset({'cream heart card holder'}),1
+0.02501597287069347,frozenset({'enamel flower jug cream'}),1
+0.022312871676414214,frozenset({'enamel bread bin cream'}),1
+0.017299847643387233,frozenset({'hanging metal heart lantern'}),1
+0.01425271538801789,frozenset({'classic metal birdcage plant holder'}),1
+0.033518454809062764,frozenset({'lunch bag dolly girl design'}),1
+0.02211628249864845,frozenset({'jumbo bag dolly girl design'}),1
+0.01764387870447732,frozenset({'traditional christmas ribbons'}),1
+0.10281613997149457,frozenset({'jumbo bag red retrospot'}),1
+0.032584656214675385,frozenset({'chilli lights'}),1
+0.031749152209170885,frozenset({'homemade jam scented candles'}),1
+0.01184449796038728,frozenset({'gingham heart  doorstop red'}),1
+0.02319752297636015,frozenset({'small heart measuring spoons'}),1
+0.02260775544306286,frozenset({'red diner wall clock'}),1
+0.020396127193198013,frozenset({'ivory diner wall clock'}),1
+0.018331940826657494,frozenset({'red retrospot umbrella'}),1
+0.018331940826657494,frozenset({'large heart measuring spoons'}),1
+0.017938762471125965,frozenset({'blue diner wall clock'}),1
+0.015284808571288151,frozenset({'christmas lights 10 reindeer'}),1
+0.014351009976900772,frozenset({'black/blue polkadot umbrella'}),1
+0.048459232319260824,frozenset({'set/20 red retrospot paper napkins'}),1
+0.04030078144198162,frozenset({'paper chain kit vintage christmas'}),1
+0.03061876443701774,frozenset({'retrospot heart hot water bottle'}),1
+0.029635818548188923,frozenset({'hanging heart zinc t-light holder'}),1
+0.028947756426008747,frozenset({'small popcorn holder'}),1
+0.021035042020936746,frozenset({'set/6 red spotty paper cups'}),1
+0.018430235415540376,frozenset({'english rose hot water bottle'}),1
+0.01680837469897282,frozenset({'jam jar with pink lid'}),1
+0.016120312576792646,frozenset({'deluxe sewing kit'}),1
+0.01577628151570256,frozenset({'photo cube'}),1
+0.015039072099080945,frozenset({'jam jar with green lid'}),1
+0.011156435838207107,frozenset({'polkadot rain hat'}),1
+0.010566668304909814,frozenset({'disco ball christmas decoration'}),1
+0.028898609131567308,frozenset({'wooden box of dominoes'}),1
+0.023000933798594386,frozenset({'3 stripey mice feltcraft'}),1
+0.022706050031945743,frozenset({'picnic basket wicker small'}),1
+0.021968840615324125,frozenset({'set of 6 soldier skittles'}),1
+0.020936747432053867,frozenset({'traditional wooden skipping rope'}),1
+0.03794171130879245,frozenset({'clothes pegs retrospot pack 24'}),1
+0.03327271833685556,frozenset({'hand over the chocolate   sign'}),1
+0.032142330564702414,frozenset({'hand warmer owl design'}),1
+0.026932717353909667,frozenset({'hand warmer scotty dog design'}),1
+0.022951786504152947,frozenset({'travel sewing kit'}),1
+0.018381088121098933,frozenset({'hand warmer red retrospot'}),1
+0.015874576104585442,"frozenset({'fancy font birthday card,'})",1
+0.028013957831621368,frozenset({'alarm clock bakelike ivory'}),1
+0.027227601120558314,frozenset({'hand warmer bird design'}),1
+0.02658868629281958,frozenset({'small glass heart trinket pot'}),1
+0.021870546026441243,frozenset({'alarm clock bakelike orange'}),1
+0.01975721236545928,frozenset({'chick grey hot water bottle'}),1
+0.04216837863075638,frozenset({'chocolate hot water bottle'}),1
+0.03789256401435101,frozenset({'scottie dog hot water bottle'}),1
+0.034697989875657344,frozenset({'strawberry ceramic trinket box'}),1
+0.032289772448026735,frozenset({'hot water bottle i am so poorly'}),1
+0.02452449992627906,frozenset({'white skull hot water bottle'}),1
+0.017938762471125965,frozenset({'doormat fairy cake'}),1
+0.014596746449107977,frozenset({'pack of 12 red retrospot tissues'}),1
+0.011893645254828722,frozenset({'pink doughnut trinket pot'}),1
+0.056863419668747237,frozenset({'lunch bag spaceboy design'}),1
+0.05357055094117069,frozenset({'lunch bag pink polkadot'}),1
+0.05003194574138694,frozenset({'lunch bag woodland'}),1
+0.03346930751462132,frozenset({'gumball coat rack'}),1
+0.03307612915908979,frozenset({'bathroom metal sign'}),1
+0.024770236398486262,frozenset({'photo frame cornice'}),1
+0.023492406743008797,frozenset({'ladies & gentlemen metal sign'}),1
+0.02216542979308989,frozenset({'scandinavian reds ribbons'}),1
+0.02024868530987369,frozenset({'metal sign take it or leave it'}),1
+0.019904654248783606,frozenset({'toilet metal sign'}),1
+0.019560623187693516,frozenset({'candleholder pink hanging heart'}),1
+0.0188234137710719,frozenset({'assorted colour mini cases'}),1
+0.018037057060008847,"frozenset({""i'm on holiday metal sign""})",1
+0.017496436821152997,frozenset({'picture dominoes'}),1
+0.01720155305450435,frozenset({'set 20 napkins fairy cakes design'}),1
+0.017004963876738586,frozenset({'balloons  writing set'}),1
+0.016906669287855704,frozenset({'set/10 pink polkadot party candles'}),1
+0.014989924804639504,frozenset({'kitchen metal sign'}),1
+0.014645893743549418,frozenset({'set of 4 english rose placemats'}),1
+0.01371209514916204,frozenset({'bird house hot water bottle'}),1
+0.01371209514916204,frozenset({'set of 4 english rose coasters'}),1
+0.013613800560279157,frozenset({'jazz hearts purse notebook'}),1
+0.013073180321423305,frozenset({'set of 9 heart shaped balloons'}),1
+0.012876591143657542,frozenset({'fairy cake flannel assorted colour'}),1
+0.01277829655477466,frozenset({'family photo frame cornice'}),1
+0.01125473042708999,frozenset({'apple bath sponge'}),1
+0.011205583132648548,frozenset({'strawberry bath sponge'}),1
+0.010763257482675578,frozenset({'grow your own basil in enamel mug'}),1
+0.010714110188234137,frozenset({'triple photo frame cornice'}),1
+0.010615815599351255,frozenset({'retrospot cigar box matches'}),1
+0.010075195360495405,frozenset({'doormat topiary'}),1
+0.010026048066053964,frozenset({'set of 6 t-lights santa'}),1
+0.0625645058239544,frozenset({'lunch bag  black skull.'}),1
+0.05651938860765715,frozenset({'lunch bag cars blue'}),1
+0.03381333857571141,frozenset({'set of 3 butterfly cookie cutters'}),1
+0.033665896692387086,frozenset({'set of 3 heart cookie cutters'}),1
+0.032584656214675385,frozenset({'pack of 72 skull cake cases'}),1
+0.030225586081486216,frozenset({'72 sweetheart fairy cake cases'}),1
+0.02555659310954932,frozenset({'pack of 60 spaceboy cake cases'}),1
+0.018577677298864698,frozenset({'3 piece spaceboy cookie cutter set'}),1
+0.018577677298864698,frozenset({'heart ivory trellis small'}),1
+0.01562883963237824,frozenset({'heart ivory trellis large'}),1
+0.015186513982405269,frozenset({'chocolate box ribbons'}),1
+0.012483412788126013,frozenset({'pink drawer knob acrylic edwardian'}),1
+0.011058141249324225,frozenset({'romantic pinks ribbons'}),1
+0.043200471814026635,frozenset({'set/5 red retrospot lid glass bowls'}),1
+0.05096574433577432,frozenset({'victorian glass hanging t-light'}),1
+0.03425566422568438,frozenset({'doormat red retrospot'}),1
+0.0324863616257925,frozenset({'red  harmonica in box'}),1
+0.029635818548188923,frozenset({'blue harmonica in box'}),1
+0.02914434560377451,frozenset({'doormat hearts'}),1
+0.0275716321816484,frozenset({'plasters in tin skulls'}),1
+0.026736128176143903,frozenset({'lovebird hanging decoration white'}),1
+0.025458298520666438,frozenset({'set of 20 kids cookie cutters'}),1
+0.024917678281810587,frozenset({'single heart zinc t-light holder'}),1
+0.023787290509657444,frozenset({'4 traditional spinning tops'}),1
+0.02226372438197277,frozenset({'set of 72 retrospot paper  doilies'}),1
+0.022067135204207007,frozenset({'rotating silver angels t-light hldr'}),1
+0.020396127193198013,frozenset({'natural slate rectangle chalkboard'}),1
+0.019413181304369195,frozenset({'airline bag vintage tokyo 78'}),1
+0.01562883963237824,frozenset({'10 colour spaceboy pen'}),1
+0.01425271538801789,frozenset({'silver hanging t-light holder'}),1
+0.01425271538801789,frozenset({'sleeping cat erasers'}),1
+0.014154420799135007,frozenset({'card circus parade'}),1
+0.012581707377008896,frozenset({'12 pencils tall tube skulls'}),1
+0.011058141249324225,frozenset({'card birthday cowboy'}),1
+0.010959846660441343,frozenset({'ribbon reel making snowmen'}),1
+0.010615815599351255,frozenset({'pens assorted funny face'}),1
+0.040546517914188826,frozenset({'jumbo bag strawberry'}),1
+0.032289772448026735,frozenset({'jumbo bag owls'}),1
+0.02309922838747727,frozenset({'feltcraft cushion owl'}),1
+0.02024868530987369,frozenset({'strawberry shopper bag'}),1
+0.01671008011008994,frozenset({'aged glass silver t-light holder'}),1
+0.014596746449107977,frozenset({'full english breakfast plate'}),1
+0.012680001965891778,frozenset({'owl doorstop'}),1
+0.011156435838207107,"frozenset({""children's spaceboy mug""})",1
+0.010124342654936846,frozenset({'doormat union jack guns and roses'}),1
+0.04693566619157615,frozenset({'6 ribbons rustic charm'}),1
+0.04280729345849511,frozenset({'rex cash+carry jumbo shopper'}),1
+0.04177520027522485,frozenset({'dolly girl lunch box'}),1
+0.028554578070477222,frozenset({'round snack boxes set of 4 fruits'}),1
+0.026736128176143903,frozenset({'christmas craft little friends'}),1
+0.022460313559738536,frozenset({'christmas craft tree top angel'}),1
+0.020740158254288103,frozenset({'set of 3 notebooks in parcel'}),1
+0.020543569076522338,frozenset({'soldiers egg cup'}),1
+0.018970855654396226,frozenset({'feltcraft cushion rabbit'}),1
+0.018921708359954784,frozenset({'red retrospot mini cases'}),1
+0.017103258465621468,frozenset({'feltcraft cushion butterfly'}),1
+0.01626775446011697,frozenset({'feltcraft doll molly'}),1
+0.01577628151570256,frozenset({'feltcraft christmas fairy'}),1
+0.014940777510198063,frozenset({'red retrospot plate'}),1
+0.01479333562687374,frozenset({'feltcraft doll rosie'}),1
+0.01425271538801789,frozenset({'feltcraft princess olivia doll'}),1
+0.014203568093576448,frozenset({'round snack boxes set of 4 skulls'}),1
+0.013122327615864746,frozenset({'feltcraft doll emily'}),1
+0.01179535066594584,frozenset({'red retrospot tape'}),1
+0.045510394652774365,frozenset({'vintage snap cards'}),1
+0.034599695286774465,frozenset({'plasters in tin woodland animals'}),1
+0.03307612915908979,frozenset({'plasters in tin spaceboy'}),1
+0.030373027964810537,frozenset({'60 cake cases vintage christmas'}),1
+0.02997984960927901,frozenset({'set of 20 vintage christmas napkins'}),1
+0.027817368653855604,frozenset({'plasters in tin vintage paisley'}),1
+0.02712930653167543,frozenset({'childrens apron spaceboy design'}),1
+0.026883570059468228,frozenset({'feltcraft 6 flower friends'}),1
+0.025212562048459234,frozenset({'pack of 12 london tissues'}),1
+0.02363984862633312,frozenset({'feltcraft butterfly hearts'}),1
+0.021477367670909717,frozenset({'60 cake cases dolly girl design'}),1
+0.02029783260431513,frozenset({'feltcraft princess lola doll'}),1
+0.019904654248783606,frozenset({'wicker star'}),1
+0.019314886715486312,frozenset({'pack of 60 mushroom cake cases'}),1
+0.018086204354450287,frozenset({'hand warmer babushka design'}),1
+0.01764387870447732,frozenset({'set 12 retro white chalk sticks'}),1
+0.01562883963237824,frozenset({'ribbon reel christmas sock bauble'}),1
+0.015432250454612474,"frozenset({""children's apron dolly girl""})",1
+0.013515505971396275,frozenset({'ribbon reel snowy village'}),1
+0.012827443849216101,frozenset({'magic drawing slate spaceboy'}),1
+0.012532560082567454,frozenset({'charlie + lola red hot water bottle'}),1
+0.012139381727035927,frozenset({'advent calendar gingham sack'}),1
+0.011647908782621516,frozenset({'purple drawerknob acrylic edwardian'}),1
+0.011451319604855752,frozenset({'magic drawing slate dolly girl'}),1
+0.015383103160171033,frozenset({'rotating leaves t-light holder'}),1
+0.0275716321816484,frozenset({'grey heart hot water bottle'}),1
+0.02024868530987369,frozenset({'traditional wooden catch cup game'}),1
+0.012532560082567454,frozenset({'kings choice tea caddy'}),1
+0.011991939843711604,frozenset({'boys vintage tin seaside bucket'}),1
+0.011353025015972872,frozenset({'girls vintage tin seaside bucket'}),1
+0.011353025015972872,frozenset({'s/6 wooden skittles in cotton bag'}),1
+0.01125473042708999,frozenset({'red metal beach spade'}),1
+0.011205583132648548,frozenset({'metal sign empire tea'}),1
+0.02408217427630609,frozenset({'fawn blue hot water bottle'}),1
+0.019413181304369195,frozenset({'pack of 6 birdy gift tags'}),1
+0.017299847643387233,frozenset({'ceramic heart fairy cake money bank'}),1
+0.014547599154666536,frozenset({'doorstop retrospot heart'}),1
+0.02216542979308989,frozenset({'red retrospot oven glove'}),1
+0.026293802526170935,frozenset({'zinc metal heart decoration'}),1
+0.018528530004423255,frozenset({'christmas craft white fairy'}),1
+0.01759473141003588,frozenset({'retrospot childrens apron'}),1
+0.01626775446011697,frozenset({'colouring pencils brown tube'}),1
+0.01469504103799086,frozenset({'heart filigree dove  small'}),1
+0.018626824593306137,frozenset({'set/10 red polkadot party candles'}),1
+0.01479333562687374,frozenset({'french wc sign blue metal'}),1
+0.014006978915810684,frozenset({'victorian sewing box small'}),1
+0.012827443849216101,frozenset({'victorian sewing box medium'}),1
+0.017889615176684522,frozenset({'washroom metal sign'}),1
+0.026441244409495256,frozenset({'wooden heart christmas scandinavian'}),1
+0.021428220376468275,frozenset({'vintage paisley stationery set'}),1
+0.020985894726495306,frozenset({'pack of 12 hearts design tissues'}),1
+0.02010124342654937,frozenset({'ribbon reel stripes design'}),1
+0.015579692337936796,frozenset({'retrospot party bag + sticker set'}),1
+0.014105273504693566,frozenset({'dinosaurs  writing set'}),1
+0.012729149260333219,frozenset({'ribbon reel christmas present'}),1
+0.012385118199243131,frozenset({'skulls writing set'}),1
+0.012286823610360249,frozenset({'heart filigree dove large'}),1
+0.01179535066594584,frozenset({'set/10 blue polkadot party candles'}),1
+0.01086155207155846,frozenset({'star wooden christmas decoration'}),1
+0.09775396864402615,frozenset({'regency cakestand 3 tier'}),1
+0.018430235415540376,frozenset({'black record cover frame'}),1
+0.0177421732933602,"frozenset({'record frame 7"" single size'})",1
+0.015972870693468325,frozenset({'36 pencils tube red retrospot'}),1
+0.012483412788126013,frozenset({'rocking horse red christmas'}),1
+0.023344964859684476,frozenset({'vintage union jack bunting'}),1
+0.016022017987909764,frozenset({'paper bunting white lace'}),1
+0.010664962893792696,frozenset({'card i love london'}),1
+0.021772251437558364,frozenset({'card billboard font'}),1
+0.015333955865729592,frozenset({'card dolly girl'}),1
+0.013957831621369243,frozenset({'set of 2 tea towels apple and pears'}),1
+0.010468373716026933,frozenset({'rainy ladies birthday card'}),1
+0.01469504103799086,frozenset({'lantern cream gazebo'}),1
+0.017054111171180025,frozenset({'antique silver tea glass engraved'}),1
+0.010222637243819728,frozenset({'set of 2 wooden market crates'}),1
+0.0346488425812159,frozenset({'jumbo storage bag skulls'}),1
+0.021968840615324125,frozenset({'picnic basket wicker large'}),1
+0.01631690175455841,frozenset({'place setting white heart'}),1
+0.014940777510198063,frozenset({'retrospot red washing up gloves'}),1
+0.01331891679363051,frozenset({'calendar paper cut design'}),1
+0.013073180321423305,frozenset({'small red babushka notebook'}),1
+0.01233597090480169,frozenset({'12 message cards with envelopes'}),1
+0.012286823610360249,frozenset({'button box'}),1
+0.011893645254828722,frozenset({'herb marker basil'}),1
+0.01179535066594584,frozenset({'herb marker mint'}),1
+0.01179535066594584,frozenset({'herb marker rosemary'}),1
+0.011746203371504399,frozenset({'garland wooden happy easter'}),1
+0.011697056077062958,frozenset({'herb marker parsley'}),1
+0.011647908782621516,frozenset({'herb marker thyme'}),1
+0.010271784538261169,frozenset({'herb marker chives'}),1
+0.03292868727576547,frozenset({'pack of 20 napkins pantry design'}),1
+0.030274733375927655,frozenset({'pink cream felt craft trinket box'}),1
+0.018528530004423255,frozenset({'sweetheart cakestand 3 tier'}),1
+0.012532560082567454,frozenset({'red retrospot oven glove double'}),1
+0.012385118199243131,frozenset({'christmas hanging star with bell'}),1
+0.012188529021477369,frozenset({'christmas toilet roll'}),1
+0.052391015874576105,frozenset({'roses regency teacup and saucer'}),1
+0.014203568093576448,frozenset({'hanging heart mirror decoration'}),1
+0.010271784538261169,frozenset({'christmas lights 10 vintage baubles'}),1
+0.04988450385806261,frozenset({'green regency teacup and saucer'}),1
+0.018479382709981815,frozenset({'enamel measuring jug cream'}),1
+0.017447289526711554,frozenset({'12 pencils small tube skull'}),1
+0.017447289526711554,frozenset({'12 pencil small tube woodland'}),1
+0.010271784538261169,frozenset({'heads and tails sporting fun'}),1
+0.035140315525630315,frozenset({'ivory kitchen scales'}),1
+0.02712930653167543,frozenset({'red kitchen scales'}),1
+0.024229616159630412,frozenset({'metal 4 hook hanger french chateau'}),1
+0.042414115102963584,frozenset({'jumbo bag woodland animals'}),1
+0.017054111171180025,frozenset({'multi colour silver t-light holder'}),1
+0.01759473141003588,frozenset({'wooden rounders garden set'}),1
+0.013171474910306187,frozenset({'card psychedelic apples'}),1
+0.010910699365999902,frozenset({'childs breakfast set spaceboy'}),1
+0.010124342654936846,frozenset({'make your own flowerpower card kit'}),1
+0.010026048066053964,frozenset({'childrens dolly girl mug'}),1
+0.02108418931537819,frozenset({'white wood garden plant ladder'}),1
+0.01779132058780164,frozenset({'mint kitchen scales'}),1
+0.010910699365999902,frozenset({'cake plate lovebird white'}),1
+0.013073180321423305,frozenset({'no junk mail metal sign'}),1
+0.010664962893792696,frozenset({'glass jar english confectionery'}),1
+0.010419226421585492,frozenset({'glass  beurre dish'}),1
+0.016513490932324175,frozenset({'red retrospot wrap'}),1
+0.01326976949918907,"frozenset({'birthday card, retro spot'})",1
+0.012090234432594486,frozenset({'gin & tonic diet greeting card'}),1
+0.01130387772153143,frozenset({'fancy fonts birthday wrap'}),1
+0.05489752789108959,frozenset({'recipe box pantry yellow design'}),1
+0.03292868727576547,frozenset({'gingerbread man cookie cutter'}),1
+0.028849461837125865,frozenset({'box of 24 cocktail parasols'}),1
+0.02806310512606281,frozenset({'plasters in tin circus parade'}),1
+0.025310856637342113,frozenset({'plasters in tin strongman'}),1
+0.024377058042954737,frozenset({'no singing metal sign'}),1
+0.022804344620828622,frozenset({'recipe box retrospot'}),1
+0.021772251437558364,frozenset({'pack of 12 traditional crayons'}),1
+0.021280778493143953,frozenset({'wooden school colouring set'}),1
+0.0177421732933602,frozenset({'recipe box blue sketchbook design'}),1
+0.01764387870447732,frozenset({'pack of 12 suki tissues'}),1
+0.014498451860225095,frozenset({'gin and tonic mug'}),1
+0.01331891679363051,frozenset({'pack of 12 woodland tissues'}),1
+0.012581707377008896,frozenset({'pink heart shape egg frying pan'}),1
+0.012041087138153045,frozenset({'emergency first aid tin'}),1
+0.011549614193738634,frozenset({'card party games'}),1
+0.011402172310414311,frozenset({'pack of 12 skull tissues'}),1
+0.010910699365999902,frozenset({'20 dolly pegs retrospot'}),1
+0.010763257482675578,frozenset({'pack of 12 spaceboy tissues'}),1
+0.010419226421585492,frozenset({'pack of 12 pink paisley tissues'}),1
+0.0264903917039367,frozenset({'red retrospot cake stand'}),1
+0.011402172310414311,frozenset({'gumball magazine rack'}),1
+0.01081240477711702,frozenset({'antique glass pedestal bowl'}),1
+0.02359070133189168,frozenset({'doormat spotty home sweet home'}),1
+0.016955816582297143,frozenset({'t-light glass fluted antique'}),1
+0.012827443849216101,frozenset({'small hanging ivory/red wood bird'}),1
+0.011697056077062958,frozenset({'paper bunting coloured lace'}),1
+0.010910699365999902,frozenset({'heart wooden christmas decoration'}),1
+0.030274733375927655,frozenset({'doormat union flag'}),1
+0.02019953801543225,frozenset({'doormat english rose'}),1
+0.018774266476630462,frozenset({'3 hook photo shelf antique white'}),1
+0.014351009976900772,frozenset({'grand chocolatecandle'}),1
+0.014056126210252125,frozenset({'red gingham rose jewellery box'}),1
+0.043347913697350964,frozenset({'charlotte bag suki design'}),1
+0.01081240477711702,frozenset({'paint your own canvas set'}),1
+0.02570403499287364,frozenset({'jumbo bag toys'}),1
+0.05081830245244999,frozenset({'red retrospot charlotte bag'}),1
+0.041037990858603234,frozenset({'woodland charlotte bag'}),1
+0.03926868825871136,frozenset({'paper bunting retrospot'}),1
+0.03651643976999066,frozenset({'charlotte bag pink polkadot'}),1
+0.03479628446454023,frozenset({'dotcom postage'}),1
+0.02993070231483757,frozenset({'hot baths metal sign'}),1
+0.026441244409495256,frozenset({'pottering in the shed metal sign'}),1
+0.02604806605396373,frozenset({'suki  shoulder bag'}),1
+0.025654887698432202,frozenset({'pink blue felt craft trinket box'}),1
+0.02506512016513491,frozenset({'set of 72 pink heart paper doilies'}),1
+0.02501597287069347,frozenset({'sweetheart ceramic trinket box'}),1
+0.024327910748513294,frozenset({'pink fairy cake childrens apron'}),1
+0.022067135204207007,frozenset({'beware of the cat metal sign'}),1
+0.022017987909765568,frozenset({'red retrospot bowl'}),1
+0.021133336609819628,"frozenset({'set 3 retrospot tea,coffee,sugar'})",1
+0.020887600137612424,frozenset({'floral folk stationery set'}),1
+0.020740158254288103,frozenset({'set of 6 ribbons vintage christmas'}),1
+0.020445274487639456,frozenset({'vintage cream dog food container'}),1
+0.019364034009927752,frozenset({'red spotty biscuit tin'}),1
+0.019118297537720548,frozenset({'traditional modelling clay'}),1
+0.019020002948837666,frozenset({'red retrospot cup'}),1
+0.01867597188774758,frozenset({'bingo set'}),1
+0.018430235415540376,frozenset({'bread bin diner style ivory'}),1
+0.01828279353221605,frozenset({'family album white picture frame'}),1
+0.017987909765567404,frozenset({'modern floral stationery set'}),1
+0.01779132058780164,frozenset({'12 pencils small tube red retrospot'}),1
+0.01759473141003588,frozenset({'tea bag plate red retrospot'}),1
+0.017398142232270115,frozenset({'robot birthday card'}),1
+0.01725070034894579,frozenset({'laundry 15c metal sign'}),1
+0.017103258465621468,frozenset({'hanging jam jar t-light holder'}),1
+0.016955816582297143,frozenset({'english rose notebook a7 size'}),1
+0.016906669287855704,frozenset({'red retrospot round cake tins'}),1
+0.01671008011008994,frozenset({'heart decoration rustic hanging'}),1
+0.015579692337936796,frozenset({'ivory hanging decoration  heart'}),1
+0.015530545043495356,frozenset({'vintage cream cat food container'}),1
+0.015481397749053915,frozenset({'tea time oven glove'}),1
+0.015383103160171033,frozenset({'charlie+lola pink hot water bottle'}),1
+0.014989924804639504,frozenset({'red floral feltcraft shoulder bag'}),1
+0.01469504103799086,frozenset({'wooden croquet garden set'}),1
+0.014449304565783654,frozenset({'bag 125g swirly marbles'}),1
+0.014400157271342213,frozenset({'wall tidy retrospot'}),1
+0.014105273504693566,frozenset({'doormat welcome puppies'}),1
+0.014056126210252125,frozenset({'toy tidy spaceboy'}),1
+0.013662947854720598,frozenset({'watering can pink bunny'}),1
+0.013368064088071951,frozenset({'lipstick pen red'}),1
+0.01326976949918907,frozenset({'glass jar daisy fresh cotton wool'}),1
+0.013073180321423305,frozenset({'card motorbike santa'}),1
+0.012827443849216101,frozenset({'15cm christmas glass ball 20 lights'}),1
+0.012581707377008896,frozenset({'heart decoration with pearls'}),1
+0.012532560082567454,frozenset({'coffee mug cat + bird design'}),1
+0.01233597090480169,frozenset({'small purple babushka notebook'}),1
+0.012237676315918808,frozenset({'12 pencils tall tube woodland'}),1
+0.012188529021477369,frozenset({'bag 250g swirly marbles'}),1
+0.012090234432594486,frozenset({'scottie dogs baby bib'}),1
+0.011991939843711604,frozenset({'card christmas village'}),1
+0.011991939843711604,frozenset({'folkart zinc heart christmas dec'}),1
+0.011942792549270163,frozenset({'rain poncho retrospot'}),1
+0.011893645254828722,frozenset({'christmas pudding trinket pot'}),1
+0.011746203371504399,frozenset({'brocade ring purse'}),1
+0.011500466899297193,frozenset({'red baby bunting'}),1
+0.011451319604855752,frozenset({'funky diva pen'}),1
+0.011156435838207107,frozenset({'set of 9 black skull balloons'}),1
+0.011058141249324225,frozenset({'heart decoration painted zinc'}),1
+0.011058141249324225,frozenset({'6 ribbons empire'}),1
+0.011058141249324225,frozenset({'jazz hearts address book'}),1
+0.010959846660441343,frozenset({'set of 3 bird light pink feather'}),1
+0.01081240477711702,frozenset({'holiday fun ludo'}),1
+0.010615815599351255,frozenset({'antique silver tea glass etched'}),1
+0.010517521010468373,frozenset({'glass heart t-light holder'}),1
+0.010370079127144051,frozenset({'bohemian collage stationery set'}),1
+0.010271784538261169,frozenset({'union stripe with fringe  hammock'}),1
+0.010222637243819728,frozenset({'frying pan union flag'}),1
+0.010124342654936846,frozenset({'fluted antique candle holder'}),1
+0.010075195360495405,frozenset({'gold mini tape measure'}),1
+0.010075195360495405,frozenset({'toothpaste tube pen'}),1
+0.011058141249324225,frozenset({'set 12 kids  white chalk sticks'}),1
+0.01960977048213496,frozenset({'four hook  white lovebirds'}),1
+0.018430235415540376,frozenset({'blue spot ceramic drawer knob'}),1
+0.018086204354450287,frozenset({'sweetheart recipe book stand'}),1
+0.010664962893792696,frozenset({'small yellow babushka notebook'}),1
+0.011746203371504399,"frozenset({'feather pen,hot pink'})",1
+0.010959846660441343,frozenset({'doormat airmail'}),1
+0.013662947854720598,frozenset({'bread bin diner style red'}),1
+0.011500466899297193,frozenset({'doormat 3 smiley cats'}),1
+0.04152946380301764,frozenset({'please one person metal sign'}),1
+0.021477367670909717,frozenset({'red stripe ceramic drawer knob'}),1
+0.016611785521207057,frozenset({'wooden tree christmas scandinavian'}),1
+0.014498451860225095,frozenset({'manual'}),1
+0.02516341475401779,frozenset({'wooden star christmas scandinavian'}),1
+0.011647908782621516,frozenset({'fine wicker heart'}),1
+0.013466358676954834,frozenset({'cowboys and indians birthday card'}),1
+0.021035042020936746,frozenset({'alarm clock bakelike chocolate'}),1
+0.010468373716026933,frozenset({'lipstick pen fuschia'}),1
+0.01818449894333317,frozenset({'painted metal pears assorted'}),1
+0.013466358676954834,frozenset({'swallows greeting card'}),1
+0.012974885732540424,frozenset({'colour glass. star t-light holder'}),1
+0.012925738438098983,frozenset({'36 pencils tube skulls'}),1
+0.028259694303828575,frozenset({'red retrospot shopper bag'}),1
+0.023000933798594386,frozenset({'chocolate this way metal sign'}),1
+0.022951786504152947,frozenset({'tea time party bunting'}),1
+0.022017987909765568,frozenset({'doormat welcome to our home'}),1
+0.021477367670909717,frozenset({'area patrolled metal sign'}),1
+0.021428220376468275,frozenset({'paper chain kit empire'}),1
+0.020002948837666488,frozenset({'wooden union jack bunting'}),1
+0.01975721236545928,frozenset({'pink happy birthday bunting'}),1
+0.01916744483216199,frozenset({'blue happy birthday bunting'}),1
+0.01813535164889173,frozenset({'red spot ceramic drawer knob'}),1
+0.017938762471125965,frozenset({'childrens apron apples design'}),1
+0.017693025998918758,frozenset({'set of 36 paisley flower doilies'}),1
+0.016955816582297143,frozenset({'pink baby bunting'}),1
+0.016120312576792646,"frozenset({""poppy's playhouse livingroom""})",1
+0.015579692337936796,frozenset({'french enamel candleholder'}),1
+0.014842482921315181,frozenset({'potting shed tea mug'}),1
+0.013859537032486362,frozenset({'home sweet home metal sign'}),1
+0.01376124244360348,frozenset({'wood stamp set thank you'}),1
+0.012876591143657542,frozenset({'pink floral feltcraft shoulder bag'}),1
+0.01179535066594584,frozenset({'red retrospot childrens umbrella'}),1
+0.011156435838207107,"frozenset({""poppy's playhouse bathroom""})",1
+0.010959846660441343,frozenset({'set of 6 3d kit cards for kids'}),1
+0.010517521010468373,frozenset({'gaolers keys decorative garden'}),1
+0.010517521010468373,frozenset({'round cake tin vintage green'}),1
+0.010370079127144051,frozenset({'oven mitt apples design'}),1
+0.010124342654936846,frozenset({'beaded crystal heart pink on stick'}),1
+0.017152405760062907,frozenset({'home sweet home mug'}),1
+0.01425271538801789,frozenset({'wooden happy birthday garland'}),1
+0.022853491915270065,frozenset({'baking set spaceboy design'}),1
+0.023000933798594386,frozenset({'party metal sign'}),1
+0.022558608148621418,frozenset({'memo board retrospot  design'}),1
+0.025900624170639406,frozenset({'spaceboy birthday card'}),1
+0.01813535164889173,frozenset({'set 12 kids colour  chalk sticks'}),1
+0.026293802526170935,frozenset({'world war 2 gliders asstd designs'}),1
+0.01184449796038728,frozenset({'enchanted bird coathanger 5 hook'}),1
+0.011402172310414311,frozenset({'3 traditional biscuit cutters  set'}),1
+0.010763257482675578,frozenset({'pack of 12 coloured pencils'}),1
+0.020887600137612424,frozenset({'blue stripe ceramic drawer knob'}),1
+0.017938762471125965,frozenset({'white spot blue ceramic drawer knob'}),1
+0.01779132058780164,frozenset({'tea party birthday card'}),1
+0.016513490932324175,frozenset({'watering can blue elephant'}),1
+0.012876591143657542,frozenset({'penny farthing birthday card'}),1
+0.011156435838207107,frozenset({'watering can green dinosaur'}),1
+0.010370079127144051,frozenset({'embossed glass tealight holder'}),1
+0.010763257482675578,frozenset({'french bathroom sign blue metal'}),1
+0.010173489949378287,frozenset({'french blue metal door sign 1'}),1
+0.013024033026981865,frozenset({'picture frame wood triple portrait'}),1
+0.010075195360495405,frozenset({'green polkadot bowl'}),1
+0.01331891679363051,frozenset({'round cake tin vintage red'}),1
+0.012876591143657542,frozenset({'set3 book box green gingham flower'}),1
+0.014105273504693566,frozenset({'peg bag apples design'}),1
+0.011402172310414311,frozenset({'photo frame 3 classic hanging'}),1
+0.023443259448567358,frozenset({'set/3 red gingham rose storage box'}),1
+0.01430186268245933,frozenset({'food container set 3 love heart'}),1
+0.013171474910306187,frozenset({'12 pencils tall tube red retrospot'}),1
+0.011008993954882784,frozenset({'mini wooden happy birthday garland'}),1
+0.010419226421585492,frozenset({'filigris heart with butterfly'}),1
+0.03381333857571141,frozenset({'jumbo bag spaceboy design'}),1
+0.011107288543765666,frozenset({'airline bag vintage jet set red'}),1
+0.010517521010468373,frozenset({'dinosaur lunch box with cutlery'}),1
+0.010517521010468373,frozenset({'charlie and lola figures tins'}),1
+0.016464343637882736,frozenset({'pack of 20 skull paper napkins'}),1
+0.015825428810144003,frozenset({'blue polkadot bowl'}),1
+0.015088219393522386,frozenset({'pink  polkadot cup'}),1
+0.016366049048999853,frozenset({'pink polkadot bowl'}),1
+0.015284808571288151,frozenset({'memo board cottage design'}),1
+0.01184449796038728,frozenset({'glitter butterfly clips'}),1
+0.01086155207155846,frozenset({'vintage union jack memoboard'}),1
+0.010222637243819728,frozenset({'spaceboy gift wrap'}),1
+0.01032093183270261,frozenset({'enamel wash bowl cream'}),1
+0.015186513982405269,"frozenset({'key fob , back door'})",1
+0.01032093183270261,"frozenset({'key fob , front  door'})",1
+0.023836437804098883,frozenset({'red retrospot peg bag'}),1
+0.010468373716026933,frozenset({'pink polkadot wrap'}),1
+0.025458298520666438,frozenset({'assorted colours silk fan'}),1
+0.011746203371504399,frozenset({'red retrospot butter dish'}),1
+0.010664962893792696,frozenset({'blue polkadot wrap'}),1
+0.010468373716026933,frozenset({'vintage kid dolly card'}),1
+0.011058141249324225,frozenset({'citronella candle garden pot'}),1
+0.010370079127144051,frozenset({'monsters stencil craft'}),1
+0.018331940826657494,"frozenset({'key fob , shed'})",1
+0.013417211382513393,frozenset({'paper bunting vintage paisley'}),1
+0.015972870693468325,frozenset({'blue polkadot cup'}),1
+0.025507445815107877,frozenset({'cream sweetheart mini chest'}),1
+0.012188529021477369,frozenset({'wrap english rose'}),1
+0.012139381727035927,frozenset({'red retrospot sugar jam bowl'}),1
+0.02993070231483757,frozenset({'traditional knitting nancy'}),1
+0.011008993954882784,frozenset({'pack of 6 sandcastle flags assorted'}),1
+0.014891630215756622,frozenset({'3 hearts hanging decoration rustic'}),1
+0.016366049048999853,frozenset({'pottering mug'}),1
+0.08286233842826952,frozenset({'party bunting'}),1
+0.023394112154125915,frozenset({'natural slate chalkboard large'}),1
+0.02024868530987369,frozenset({'skull lunch box with cutlery'}),1
+0.016415196343441293,frozenset({'set of 36 teatime paper doilies'}),1
+0.015383103160171033,frozenset({'set/20 strawberry paper napkins'}),1
+0.02609721334840517,frozenset({'red retrospot picnic bag'}),1
+0.018430235415540376,frozenset({'pack of 20 napkins red apples'}),1
+0.010075195360495405,frozenset({'large circular mirror mobile'}),1
+0.021919693320882686,frozenset({'scandinavian paisley picnic bag'}),1
+0.02015039072099081,frozenset({'pink vintage paisley picnic bag'}),1
+0.010419226421585492,frozenset({'english rose garden secateurs'}),1
+0.022411166265297097,frozenset({'zinc folkart sleigh bells'}),1
+0.012188529021477369,frozenset({'magnets pack of 4 swallows'}),1
+0.01233597090480169,frozenset({'strawberry   picnic bag'}),1
+0.015874576104585442,frozenset({'ribbon reel hearts design'}),1
+0.013810389738044921,frozenset({'happy stencil craft'}),1
+0.012090234432594486,frozenset({'small chocolates pink bowl'}),1
+0.010664962893792696,frozenset({'set/6 collage paper plates'}),1
+0.035779230353369045,frozenset({'hanging heart jar t-light holder'}),1
+0.01425271538801789,frozenset({'card suki birthday'}),1
+0.021968840615324125,frozenset({'small marshmallows pink bowl'}),1
+0.014056126210252125,frozenset({'doormat home sweet home blue'}),1
+0.011697056077062958,frozenset({'round container set of 5 retrospot'}),1
+0.010173489949378287,frozenset({'bottle bag retrospot'}),1
+0.025900624170639406,frozenset({'small dolly mix design orange bowl'}),1
+0.011107288543765666,frozenset({'small red retrospot windmill'}),1
+0.014989924804639504,frozenset({'grow a flytrap or sunflower in tin'}),1
+0.0376468275421438,frozenset({'pink regency teacup and saucer'}),1
+0.01685752199341426,frozenset({'red retrospot small milk jug'}),1
+0.01081240477711702,frozenset({'mini cake stand  hanging strawbery'}),1
+0.06806900280139579,frozenset({'set of 3 cake tins pantry design'}),1
+0.04098884356416179,frozenset({'set of 6 spice tins pantry design'}),1
+0.014498451860225095,frozenset({'set of 6 herb tins sketchbook'}),1
+0.014596746449107977,frozenset({'set of 3 cake tins sketchbook'}),1
+0.012827443849216101,frozenset({'coffee mug apples design'}),1
+0.010419226421585492,frozenset({'coffee mug pears  design'}),1
+0.015579692337936796,frozenset({'london bus coffee mug'}),1
+0.013368064088071951,frozenset({'queens guard coffee mug'}),1
+0.045903573008305894,frozenset({'baking set 9 piece retrospot'}),1
+0.011549614193738634,frozenset({'wrap alphabet design'}),1
+0.010517521010468373,frozenset({'set 3 paper vintage chick paper egg'}),1
+0.012139381727035927,frozenset({'medium ceramic top storage jar'}),1
+0.02029783260431513,frozenset({'gingham heart decoration'}),1
+0.012090234432594486,frozenset({'retrospot wooden heart decoration'}),1
+0.010763257482675578,frozenset({'hanging heart with bell'}),1
+0.01828279353221605,frozenset({'set 2 pantry design tea towels'}),1
+0.01430186268245933,frozenset({'pantry scrubbing brush'}),1
+0.05273504693566619,frozenset({'set of 4 pantry jelly moulds'}),1
+0.026244655231729492,frozenset({'travel card wallet keep calm'}),1
+0.013662947854720598,frozenset({'travel card wallet transport'}),1
+0.01086155207155846,frozenset({'travel card wallet pantry'}),1
+0.010714110188234137,frozenset({'travel card wallet retrospot'}),1
+0.017103258465621468,frozenset({'revolver wooden ruler'}),1
+0.013466358676954834,frozenset({'giraffe wooden ruler'}),1
+0.020052096132107927,frozenset({'travel card wallet vintage ticket'}),1
+0.013073180321423305,frozenset({'travel card wallet suki'}),1
+0.011697056077062958,frozenset({'pantry rolling pin'}),1
+0.01184449796038728,frozenset({'travel card wallet i love london'}),1
+0.010910699365999902,frozenset({'travel card wallet union jack'}),1
+0.020789305548729542,frozenset({'childrens cutlery polkadot pink'}),1
+0.014203568093576448,frozenset({'childrens cutlery polkadot blue'}),1
+0.053324814468963484,frozenset({'lunch bag suki design'}),1
+0.03253550892023394,frozenset({'jumbo bag scandinavian blue paisley'}),1
+0.015579692337936796,frozenset({'childrens cutlery retrospot red'}),1
+0.012090234432594486,frozenset({'childrens cutlery polkadot green'}),1
+0.021280778493143953,frozenset({'toilet sign occupied or vacant'}),1
+0.01872511918218902,frozenset({'pantry washing up brush'}),1
+0.013122327615864746,frozenset({'treasure island book box'}),1
+0.011107288543765666,frozenset({'abc treasure book box'}),1
+0.010419226421585492,frozenset({'pantry pastry brush'}),1
+0.013515505971396275,frozenset({'feltcraft girl amelie kit'}),1
+0.013662947854720598,frozenset({'recycled acapulco mat turquoise'}),1
+0.010075195360495405,frozenset({'recycled acapulco mat green'}),1
+0.012974885732540424,frozenset({'bull dog bottle opener'}),1
+0.03386248587015285,frozenset({'antique silver t-light glass'}),1
+0.016906669287855704,frozenset({'doughnut lip gloss'}),1
+0.013613800560279157,frozenset({'ice cream sundae lip gloss'}),1
+0.012630854671450337,frozenset({'ice cream pen lip gloss'}),1
+0.01906915024327911,frozenset({'open closed metal sign'}),1
+0.011549614193738634,frozenset({'set of 4 jam jar magnets'}),1
+0.010959846660441343,frozenset({'set of 5 pancake day magnets'}),1
+0.010075195360495405,frozenset({'set of 5 mini grocery magnets'}),1
+0.012532560082567454,frozenset({'set of 5 lucky cat magnets'}),1
+0.017693025998918758,frozenset({'childrens cutlery spaceboy'}),1
+0.01430186268245933,frozenset({'childrens cutlery dolly girl'}),1
+0.050916597041332876,frozenset({'lunch bag apple design'}),1
+0.048066053963729295,frozenset({'jumbo bag apples'}),1
+0.04452744876394554,frozenset({'jumbo bag alphabet'}),1
+0.03636899788666634,frozenset({'lunch bag alphabet design'}),1
+0.0286528726593601,frozenset({'charlotte bag apples design'}),1
+0.021870546026441243,frozenset({'charlotte bag vintage alphabet'}),1
+0.032830392686882585,frozenset({'lunch bag vintage leaf design'}),1
+0.011156435838207107,frozenset({'triple hook antique ivory rose'}),1
+0.012827443849216101,frozenset({'single antique rose hook ivory'}),1
+0.011942792549270163,frozenset({'miniature antique rose hook ivory'}),1
+0.013466358676954834,frozenset({'zinc t-light holder stars small'}),1
+0.010271784538261169,frozenset({'regency sugar tongs'}),1
+0.035779230353369045,frozenset({'doormat keep calm and come in'}),1
+0.05607706295768418,frozenset({'spotty bunting'}),1
+0.043200471814026635,frozenset({'jumbo bag vintage leaf'}),1
+0.029242640192657394,frozenset({'jumbo bag pears'}),1
+0.025261709342900673,frozenset({'jumbo bag doiley patterns'}),1
+0.024180468865188973,frozenset({'lunch bag doiley pattern'}),1
+0.013564653265837716,frozenset({'bundle of 3 retro note books'}),1
+0.016955816582297143,frozenset({'bundle of 3 alphabet exercise books'}),1
+0.021870546026441243,frozenset({'regency tea plate roses'}),1
+0.020445274487639456,frozenset({'regency teapot roses'}),1
+0.01872511918218902,frozenset({'regency tea plate green'}),1
+0.01616945987123409,frozenset({'regency milk jug pink'}),1
+0.015825428810144003,frozenset({'regency sugar bowl green'}),1
+0.014989924804639504,frozenset({'regency tea plate pink'}),1
+0.04885241067479235,frozenset({'rabbit night light'}),1
+0.012680001965891778,frozenset({'parisienne jewellery drawer'}),1
+0.010026048066053964,frozenset({'zinc herb garden container'}),1
+0.01828279353221605,frozenset({'set of 10 led dolly lights'}),1
+0.012630854671450337,frozenset({'red metal box top secret'}),1
+0.012532560082567454,frozenset({'parisienne key cabinet'}),1
+0.014596746449107977,frozenset({'set 6 paper table lantern hearts'}),1
+0.012630854671450337,frozenset({'silver bells table decoration'}),1
+0.01184449796038728,frozenset({'parisienne curio cabinet'}),1
+0.011353025015972872,frozenset({'small ceramic top storage jar'}),1
+0.01376124244360348,frozenset({'large ceramic top storage jar'}),1
+0.010468373716026933,frozenset({'silver stars table decoration'}),1
+0.011058141249324225,frozenset({'glass bon bon jar'}),1
+0.01479333562687374,frozenset({'classic glass cookie jar'}),1
+0.015972870693468325,frozenset({'classic cafe sugar dispenser'}),1
+0.017496436821152997,frozenset({'jingle bell heart decoration'}),1
+0.012090234432594486,frozenset({'set 6 paper table lantern stars'}),1
+0.04487147982503563,frozenset({'gardeners kneeling pad keep calm'}),1
+0.037253649186612274,frozenset({'gardeners kneeling pad cup of tea'}),1
+0.01130387772153143,frozenset({'kneeling mat housework  design'}),1
+0.01032093183270261,frozenset({'jingle bell heart antique silver'}),1
+0.015972870693468325,frozenset({'set of 3 hanging owls ollie beak'}),1
+0.021870546026441243,frozenset({'set of 3 wooden heart decorations'}),1
+0.020002948837666488,frozenset({'set of 60 i love london cake cases'}),1
+0.030913648203666388,frozenset({'set of 60 pantry design cake cases'}),1
+0.011991939843711604,frozenset({'set of 36 doilies pantry design'}),1
+0.018774266476630462,frozenset({'set of 60 vintage leaf cake cases'}),1
+0.013466358676954834,frozenset({'set of 4 knick knack tins london'}),1
+0.02309922838747727,frozenset({'set of tea coffee sugar tins pantry'}),1
+0.04290558804737799,frozenset({'set of 3 regency cake tins'}),1
+0.017840467882243083,frozenset({'treasure tin gymkhana design'}),1
+0.010517521010468373,frozenset({'treasure tin buffalo bill'}),1
+0.015186513982405269,"frozenset({""biscuit tin 50's christmas""})",1
+0.012041087138153045,frozenset({'bubblegum ring assorted'}),1
+0.030913648203666388,frozenset({'small white heart of wicker'}),1
+0.015677986926819678,frozenset({'set of 3 wooden stocking decoration'}),1
+0.01469504103799086,frozenset({'set of 3 wooden sleigh decorations'}),1
+0.014400157271342213,frozenset({'set of 3 wooden tree decorations'}),1
+0.039465277436477125,frozenset({'popcorn holder'}),1
+0.027620779476089843,frozenset({'large white heart of wicker'}),1
+0.010910699365999902,frozenset({'blue vintage spot beaker'}),1
+0.023394112154125915,frozenset({'jumbo bag vintage christmas'}),1
+0.012876591143657542,frozenset({'christmas star wish list chalkboard'}),1
+0.010517521010468373,frozenset({'spaceboy childrens bowl'}),1
+0.012385118199243131,frozenset({'vintage donkey tail game'}),1
+0.013662947854720598,frozenset({'biscuit tin vintage christmas'}),1
+0.012090234432594486,frozenset({'glass apothecary bottle perfume'}),1
+0.010271784538261169,frozenset({'glass apothecary bottle elixir'}),1
+0.010959846660441343,frozenset({'glass apothecary bottle tonic'}),1
+0.03518946282007176,"frozenset({""jumbo bag 50's christmas""})",1
+0.010615815599351255,frozenset({'spaceboy childrens cup'}),1
+0.023344964859684476,frozenset({'pantry magnetic  shopping list'}),1
+0.012090234432594486,frozenset({'sketchbook magnetic shopping list'}),1
+0.014449304565783654,frozenset({'white wicker star'}),1
+0.018479382709981815,frozenset({'box of 6 mini vintage crackers'}),1
+0.016366049048999853,"frozenset({""giant 50's christmas cracker""})",1
+0.013515505971396275,frozenset({'vintage leaf magnetic notepad'}),1
+0.019806359659900723,"frozenset({""box of 6 mini 50's crackers""})",1
+0.01970806507101784,frozenset({'vintage christmas bunting'}),1
+0.02712930653167543,frozenset({'set of 12 fairy cake baking cases'}),1
+0.021821398731999803,frozenset({'set of 12 mini loaf baking cases'}),1
+0.018577677298864698,frozenset({'set of 6 tea time baking cases'}),1
+0.017398142232270115,frozenset({'set of 6 snack loaf baking cases'}),1
+0.016906669287855704,frozenset({'vintage christmas stocking'}),1
+0.010517521010468373,frozenset({'vintage christmas gift sack'}),1
+0.016071165282351207,frozenset({'6 gift tags vintage christmas'}),1
+0.015825428810144003,"frozenset({""6 gift tags 50's christmas""})",1
+0.016562638226765618,frozenset({'roll wrap vintage christmas'}),1
+0.014989924804639504,frozenset({'roll wrap vintage spot'}),1
+0.017398142232270115,"frozenset({""roll wrap 50's christmas""})",1
+0.010419226421585492,"frozenset({""roll wrap 50's red christmas""})",1
+0.017348994937828672,frozenset({'set of 4 knick knack tins doily'}),1
+0.03494372634786455,frozenset({'jumbo bag vintage doily'}),1
+0.02953752395930604,frozenset({'lunch bag vintage doily'}),1
+0.014105273504693566,frozenset({'ivory wicker heart large'}),1
+0.011451319604855752,frozenset({'decorative wicker heart large'}),1
+0.010615815599351255,frozenset({'decorative wicker heart medium'}),1
+0.011451319604855752,frozenset({'ivory wicker heart medium'}),1
+0.019904654248783606,frozenset({'set 6 school milk bottles in crate'}),1
+0.023394112154125915,frozenset({'love hot water bottle'}),1
+0.03843318425320686,frozenset({'hot water bottle keep calm'}),1
+0.019511475893252077,frozenset({'hand warmer red love heart'}),1
+0.01125473042708999,frozenset({'home sweet home cushion cover'}),1
+0.01032093183270261,frozenset({'belle jardiniere cushion cover'}),1
+0.010664962893792696,frozenset({'foot stool home sweet home'}),1
+0.011058141249324225,frozenset({'home sweet home hanging heart'}),1
+0.010124342654936846,frozenset({'metal sign drop your pants'}),1
+0.011451319604855752,frozenset({'spaceboy mini backpack'}),1
+0.016464343637882736,frozenset({'playing cards keep calm & carry on'}),1
+0.013859537032486362,frozenset({'set 12 colour pencils spaceboy'}),1
+0.010222637243819728,frozenset({'playing cards jubilee union jack'}),1
+0.020396127193198013,frozenset({'vintage doily travel sewing kit'}),1
+0.011402172310414311,frozenset({'set 12 colour pencils dolly girl'}),1
+0.010075195360495405,frozenset({'vintage doily deluxe sewing kit'}),1
+0.010763257482675578,frozenset({'wall art stop for tea'}),1
+0.01081240477711702,frozenset({'box of 6 christmas cake decorations'}),1
+0.010566668304909814,frozenset({'mini lights woodland mushrooms'}),1
+0.013564653265837716,frozenset({'traditional pick up sticks game'}),1
+0.012630854671450337,frozenset({'traditional naughts & crosses'}),1
+0.012729149260333219,frozenset({'vintage doily jumbo bag red'}),1
+0.015972870693468325,frozenset({'lunch bag paisley park'}),1
+0.016611785521207057,frozenset({'jumbo bag paisley park'}),1
+0.011598761488180075,"frozenset({'hand warmer union jack', 'hand warmer owl design'})",2
+0.010566668304909814,"frozenset({'hand warmer scotty dog design', 'hand warmer union jack'})",2
+0.015874576104585442,"frozenset({'white hanging heart t-light holder', 'assorted colour bird ornament'})",2
+0.01326976949918907,"frozenset({'regency cakestand 3 tier', 'assorted colour bird ornament'})",2
+0.011500466899297193,"frozenset({'party bunting', 'assorted colour bird ornament'})",2
+0.012532560082567454,"frozenset({'white hanging heart t-light holder', 'home building block word'})",2
+0.014596746449107977,"frozenset({'love building block word', 'home building block word'})",2
+0.010910699365999902,"frozenset({'white hanging heart t-light holder', 'love building block word'})",2
+0.015383103160171033,"frozenset({""poppy's playhouse bedroom"", ""poppy's playhouse kitchen""})",2
+0.02319752297636015,"frozenset({'jam making set printed', 'jam making set with jars'})",2
+0.014105273504693566,"frozenset({'jumbo bag red retrospot', 'jam making set with jars'})",2
+0.013171474910306187,"frozenset({'white hanging heart t-light holder', 'jam making set with jars'})",2
+0.013024033026981865,"frozenset({'pack of 72 retrospot cake cases', 'jam making set with jars'})",2
+0.014105273504693566,"frozenset({'regency cakestand 3 tier', 'jam making set with jars'})",2
+0.01184449796038728,"frozenset({'natural slate heart chalkboard', 'jam making set with jars'})",2
+0.010271784538261169,"frozenset({'lunch bag red retrospot', 'jam making set with jars'})",2
+0.010517521010468373,"frozenset({'party bunting', 'jam making set with jars'})",2
+0.01867597188774758,"frozenset({'set of 3 cake tins pantry design', 'jam making set with jars'})",2
+0.010124342654936846,"frozenset({'set of 3 cake tins pantry design', 'jam making set printed', 'jam making set with jars'})",3
+0.010664962893792696,"frozenset({'pack of 72 retrospot cake cases', 'alarm clock bakelike red'})",2
+0.01376124244360348,"frozenset({'regency cakestand 3 tier', 'alarm clock bakelike red'})",2
+0.011107288543765666,"frozenset({'party bunting', 'alarm clock bakelike red'})",2
+0.03145426844252224,"frozenset({'alarm clock bakelike red', 'alarm clock bakelike green'})",2
+0.010615815599351255,"frozenset({'pack of 72 retrospot cake cases', 'alarm clock bakelike green'})",2
+0.012532560082567454,"frozenset({'regency cakestand 3 tier', 'alarm clock bakelike green'})",2
+0.010370079127144051,"frozenset({'party bunting', 'alarm clock bakelike green'})",2
+0.01184449796038728,"frozenset({'spaceboy lunch box', 'lunch bag spaceboy design'})",2
+0.010763257482675578,"frozenset({'lunch bag red retrospot', 'spaceboy lunch box'})",2
+0.012483412788126013,"frozenset({'spaceboy lunch box', 'jumbo bag red retrospot'})",2
+0.010271784538261169,"frozenset({'red toadstool led night light', 'jumbo shopper vintage red paisley'})",2
+0.010222637243819728,"frozenset({'red toadstool led night light', 'jam making set printed'})",2
+0.014645893743549418,"frozenset({'jumbo bag red retrospot', 'red toadstool led night light'})",2
+0.010664962893792696,"frozenset({'jumbo storage bag suki', 'red toadstool led night light'})",2
+0.011107288543765666,"frozenset({'red toadstool led night light', 'jumbo bag woodland animals'})",2
+0.011353025015972872,"frozenset({'red toadstool led night light', 'rabbit night light'})",2
+0.02309922838747727,"frozenset({'alarm clock bakelike pink', 'alarm clock bakelike red'})",2
+0.020543569076522338,"frozenset({'alarm clock bakelike pink', 'alarm clock bakelike green'})",2
+0.010959846660441343,"frozenset({'regency cakestand 3 tier', 'alarm clock bakelike pink'})",2
+0.015383103160171033,"frozenset({'alarm clock bakelike pink', 'alarm clock bakelike red', 'alarm clock bakelike green'})",3
+0.011697056077062958,"frozenset({'round snack boxes set of4 woodland', 'postage'})",2
+0.010075195360495405,"frozenset({'round snack boxes set of4 woodland', 'spaceboy lunch box'})",2
+0.011107288543765666,"frozenset({'round snack boxes set of4 woodland', 'lunch bag woodland'})",2
+0.010075195360495405,"frozenset({'round snack boxes set of4 woodland', 'woodland charlotte bag'})",2
+0.013073180321423305,"frozenset({'spaceboy lunch box', 'lunch box i love london'})",2
+0.012581707377008896,"frozenset({'dolly girl lunch box', 'lunch box i love london'})",2
+0.01680837469897282,"frozenset({'vintage heads and tails card game', 'vintage snap cards'})",2
+0.01179535066594584,"frozenset({'charlotte bag dolly girl design', 'red retrospot charlotte bag'})",2
+0.011402172310414311,"frozenset({'charlotte bag dolly girl design', 'charlotte bag suki design'})",2
+0.010468373716026933,"frozenset({'charlotte bag dolly girl design', 'woodland charlotte bag'})",2
+0.010271784538261169,"frozenset({'jumbo bag red retrospot', ""paper chain kit 50's christmas""})",2
+0.010075195360495405,"frozenset({'white hanging heart t-light holder', ""paper chain kit 50's christmas""})",2
+0.020052096132107927,"frozenset({'white hanging heart t-light holder', 'wooden picture frame white finish'})",2
+0.010370079127144051,"frozenset({'wooden picture frame white finish', 'jumbo shopper vintage red paisley'})",2
+0.014006978915810684,"frozenset({'jumbo bag red retrospot', 'wooden picture frame white finish'})",2
+0.010173489949378287,"frozenset({'jumbo storage bag suki', 'wooden picture frame white finish'})",2
+0.0264903917039367,"frozenset({'wooden frame antique white', 'wooden picture frame white finish'})",2
+0.0166609328156485,"frozenset({'wooden frame antique white', 'white hanging heart t-light holder'})",2
+0.010714110188234137,"frozenset({'wooden frame antique white', 'white hanging heart t-light holder', 'wooden picture frame white finish'})",3
+0.010517521010468373,"frozenset({'wooden picture frame white finish', 'wood 2 drawer cabinet white finish'})",2
+0.024327910748513294,"frozenset({'red hanging heart t-light holder', 'white hanging heart t-light holder'})",2
+0.016415196343441293,"frozenset({'hot water bottle tea and sympathy', 'chocolate hot water bottle'})",2
+0.012974885732540424,"frozenset({'hot water bottle i am so poorly', 'hot water bottle tea and sympathy'})",2
+0.012925738438098983,"frozenset({'hot water bottle keep calm', 'hot water bottle tea and sympathy'})",2
+0.01626775446011697,"frozenset({'lunch bag red retrospot', 'white hanging heart t-light holder'})",2
+0.02845628348159434,"frozenset({'lunch bag red retrospot', 'jumbo bag red retrospot'})",2
+0.013564653265837716,"frozenset({'lunch bag red retrospot', 'regency cakestand 3 tier'})",2
+0.015677986926819678,"frozenset({'lunch bag red retrospot', 'party bunting'})",2
+0.017004963876738586,"frozenset({'lunch bag red retrospot', 'pack of 72 retrospot cake cases'})",2
+0.01621860716567553,"frozenset({'pack of 72 retrospot cake cases', 'jumbo bag red retrospot'})",2
+0.01759473141003588,"frozenset({'pack of 72 retrospot cake cases', 'regency cakestand 3 tier'})",2
+0.01326976949918907,"frozenset({'pack of 72 retrospot cake cases', 'white hanging heart t-light holder'})",2
+0.014891630215756622,"frozenset({'pack of 72 retrospot cake cases', 'party bunting'})",2
+0.012041087138153045,"frozenset({'pack of 72 retrospot cake cases', 'set of 3 cake tins pantry design'})",2
+0.015874576104585442,"frozenset({'lunch bag red retrospot', 'jumbo bag pink polkadot'})",2
+0.040546517914188826,"frozenset({'jumbo bag red retrospot', 'jumbo bag pink polkadot'})",2
+0.012630854671450337,"frozenset({'white hanging heart t-light holder', 'jumbo bag pink polkadot'})",2
+0.012581707377008896,"frozenset({'jumbo bag pink polkadot', 'lunch bag  black skull.'})",2
+0.012237676315918808,"frozenset({'lunch bag red retrospot', 'jumbo bag red retrospot', 'jumbo bag pink polkadot'})",3
+0.025310856637342113,"frozenset({'jumbo storage bag suki', 'jumbo bag pink polkadot'})",2
+0.01680837469897282,"frozenset({'jumbo storage bag suki', 'lunch bag red retrospot'})",2
+0.03558264117560328,"frozenset({'jumbo storage bag suki', 'jumbo bag red retrospot'})",2
+0.014940777510198063,"frozenset({'jumbo storage bag suki', 'white hanging heart t-light holder'})",2
+0.013859537032486362,"frozenset({'jumbo storage bag suki', 'lunch bag  black skull.'})",2
+0.02029783260431513,"frozenset({'jumbo storage bag suki', 'jumbo bag red retrospot', 'jumbo bag pink polkadot'})",3
+0.01179535066594584,"frozenset({'jumbo storage bag suki', 'jumbo bag red retrospot', 'lunch bag red retrospot'})",3
+0.010419226421585492,"frozenset({'jumbo storage bag suki', 'jumbo bag red retrospot', 'white hanging heart t-light holder'})",3
+0.020740158254288103,"frozenset({'jumbo storage bag suki', 'jumbo  bag baroque black white'})",2
+0.020346979898756574,"frozenset({'jumbo  bag baroque black white', 'jumbo bag pink polkadot'})",2
+0.012729149260333219,"frozenset({'lunch bag red retrospot', 'jumbo  bag baroque black white'})",2
+0.028751167248242983,"frozenset({'jumbo bag red retrospot', 'jumbo  bag baroque black white'})",2
+0.02069101095984666,"frozenset({'jumbo  bag baroque black white', 'jumbo shopper vintage red paisley'})",2
+0.011156435838207107,"frozenset({'jumbo  bag baroque black white', 'white hanging heart t-light holder'})",2
+0.010370079127144051,"frozenset({'jumbo  bag baroque black white', 'lunch bag  black skull.'})",2
+0.013957831621369243,"frozenset({'jumbo  bag baroque black white', 'jumbo bag apples'})",2
+0.01562883963237824,"frozenset({'jumbo storage bag suki', 'jumbo bag red retrospot', 'jumbo  bag baroque black white'})",3
+0.011598761488180075,"frozenset({'jumbo storage bag suki', 'jumbo  bag baroque black white', 'jumbo bag pink polkadot'})",3
+0.015972870693468325,"frozenset({'jumbo bag red retrospot', 'jumbo  bag baroque black white', 'jumbo bag pink polkadot'})",3
+0.01184449796038728,"frozenset({'jumbo  bag baroque black white', 'jumbo bag pink polkadot', 'jumbo shopper vintage red paisley'})",3
+0.010124342654936846,"frozenset({'jumbo storage bag suki', 'jumbo bag red retrospot', 'jumbo  bag baroque black white', 'jumbo bag pink polkadot'})",4
+0.010026048066053964,"frozenset({'jumbo bag red retrospot', 'jumbo  bag baroque black white', 'jumbo bag pink polkadot', 'jumbo shopper vintage red paisley'})",4
+0.015284808571288151,"frozenset({'jumbo bag red retrospot', 'jumbo  bag baroque black white', 'jumbo shopper vintage red paisley'})",3
+0.012041087138153045,"frozenset({'jumbo storage bag suki', 'jumbo  bag baroque black white', 'jumbo shopper vintage red paisley'})",3
+0.010173489949378287,"frozenset({'jumbo bag red retrospot', 'jumbo  bag baroque black white', 'jumbo bag apples'})",3
+0.021133336609819628,"frozenset({'pack of 72 retrospot cake cases', 'pack of 60 pink paisley cake cases'})",2
+0.010664962893792696,"frozenset({'pack of 60 pink paisley cake cases', 'jam making set printed'})",2
+0.011402172310414311,"frozenset({'jumbo bag red retrospot', 'pack of 60 pink paisley cake cases'})",2
+0.010124342654936846,"frozenset({'pack of 60 pink paisley cake cases', 'jam making set with jars'})",2
+0.01086155207155846,"frozenset({'pack of 60 pink paisley cake cases', 'regency cakestand 3 tier'})",2
+0.010124342654936846,"frozenset({'pack of 60 pink paisley cake cases', 'white hanging heart t-light holder'})",2
+0.018626824593306137,"frozenset({'jumbo bag pink polkadot', 'jumbo bag pink vintage paisley'})",2
+0.017987909765567404,"frozenset({'jumbo storage bag suki', 'jumbo bag pink vintage paisley'})",2
+0.013515505971396275,"frozenset({'jumbo  bag baroque black white', 'jumbo bag pink vintage paisley'})",2
+0.011942792549270163,"frozenset({'lunch bag red retrospot', 'jumbo bag pink vintage paisley'})",2
+0.025458298520666438,"frozenset({'jumbo bag red retrospot', 'jumbo bag pink vintage paisley'})",2
+0.020494421782080895,"frozenset({'jumbo bag pink vintage paisley', 'jumbo shopper vintage red paisley'})",2
+0.010468373716026933,"frozenset({'red retrospot charlotte bag', 'jumbo bag pink vintage paisley'})",2
+0.010468373716026933,"frozenset({'white hanging heart t-light holder', 'jumbo bag pink vintage paisley'})",2
+0.010222637243819728,"frozenset({'jumbo bag alphabet', 'jumbo bag pink vintage paisley'})",2
+0.01233597090480169,"frozenset({'jumbo bag apples', 'jumbo bag pink vintage paisley'})",2
+0.014498451860225095,"frozenset({'jumbo bag red retrospot', 'jumbo bag pink polkadot', 'jumbo bag pink vintage paisley'})",3
+0.011451319604855752,"frozenset({'jumbo bag pink polkadot', 'jumbo bag pink vintage paisley', 'jumbo shopper vintage red paisley'})",3
+0.010959846660441343,"frozenset({'jumbo storage bag suki', 'jumbo bag pink polkadot', 'jumbo bag pink vintage paisley'})",3
+0.013220622204747628,"frozenset({'jumbo storage bag suki', 'jumbo bag red retrospot', 'jumbo bag pink vintage paisley'})",3
+0.011697056077062958,"frozenset({'jumbo storage bag suki', 'jumbo bag pink vintage paisley', 'jumbo shopper vintage red paisley'})",3
+0.010124342654936846,"frozenset({'jumbo bag red retrospot', 'jumbo  bag baroque black white', 'jumbo bag pink vintage paisley'})",3
+0.01430186268245933,"frozenset({'jumbo bag red retrospot', 'jumbo bag pink vintage paisley', 'jumbo shopper vintage red paisley'})",3
+0.02226372438197277,"frozenset({'pack of 72 retrospot cake cases', '60 teatime fairy cake cases'})",2
+0.017398142232270115,"frozenset({'60 teatime fairy cake cases', 'pack of 60 pink paisley cake cases'})",2
+0.010370079127144051,"frozenset({'60 teatime fairy cake cases', 'white hanging heart t-light holder'})",2
+0.010714110188234137,"frozenset({'60 teatime fairy cake cases', 'regency cakestand 3 tier'})",2
+0.010222637243819728,"frozenset({'60 teatime fairy cake cases', 'jumbo bag red retrospot'})",2
+0.011008993954882784,"frozenset({'pack of 72 retrospot cake cases', 'pack of 60 pink paisley cake cases', '60 teatime fairy cake cases'})",3
+0.01479333562687374,"frozenset({'lunch bag red retrospot', 'strawberry charlotte bag'})",2
+0.012483412788126013,"frozenset({'pack of 72 retrospot cake cases', 'strawberry charlotte bag'})",2
+0.013024033026981865,"frozenset({'jumbo bag red retrospot', 'strawberry charlotte bag'})",2
+0.023885585098540326,"frozenset({'red retrospot charlotte bag', 'strawberry charlotte bag'})",2
+0.020396127193198013,"frozenset({'charlotte bag suki design', 'strawberry charlotte bag'})",2
+0.018626824593306137,"frozenset({'charlotte bag pink polkadot', 'strawberry charlotte bag'})",2
+0.013810389738044921,"frozenset({'lunch bag  black skull.', 'strawberry charlotte bag'})",2
+0.013122327615864746,"frozenset({'lunch bag cars blue', 'strawberry charlotte bag'})",2
+0.010222637243819728,"frozenset({'regency cakestand 3 tier', 'strawberry charlotte bag'})",2
+0.01081240477711702,"frozenset({'party bunting', 'strawberry charlotte bag'})",2
+0.019953801543225045,"frozenset({'woodland charlotte bag', 'strawberry charlotte bag'})",2
+0.011500466899297193,"frozenset({'lunch bag spaceboy design', 'strawberry charlotte bag'})",2
+0.011156435838207107,"frozenset({'lunch bag pink polkadot', 'strawberry charlotte bag'})",2
+0.011058141249324225,"frozenset({'lunch bag woodland', 'strawberry charlotte bag'})",2
+0.011156435838207107,"frozenset({'lunch bag suki design', 'strawberry charlotte bag'})",2
+0.010763257482675578,"frozenset({'lunch bag apple design', 'strawberry charlotte bag'})",2
+0.01130387772153143,"frozenset({'lunch bag red retrospot', 'red retrospot charlotte bag', 'strawberry charlotte bag'})",3
+0.016415196343441293,"frozenset({'charlotte bag suki design', 'red retrospot charlotte bag', 'strawberry charlotte bag'})",3
+0.016022017987909764,"frozenset({'charlotte bag pink polkadot', 'red retrospot charlotte bag', 'strawberry charlotte bag'})",3
+0.01331891679363051,"frozenset({'charlotte bag pink polkadot', 'charlotte bag suki design', 'strawberry charlotte bag'})",3
+0.012925738438098983,"frozenset({'woodland charlotte bag', 'charlotte bag pink polkadot', 'strawberry charlotte bag'})",3
+0.012041087138153045,"frozenset({'charlotte bag pink polkadot', 'charlotte bag suki design', 'red retrospot charlotte bag', 'strawberry charlotte bag'})",4
+0.011893645254828722,"frozenset({'woodland charlotte bag', 'charlotte bag pink polkadot', 'red retrospot charlotte bag', 'strawberry charlotte bag'})",4
+0.010910699365999902,"frozenset({'woodland charlotte bag', 'charlotte bag pink polkadot', 'charlotte bag suki design', 'strawberry charlotte bag'})",4
+0.010026048066053964,"frozenset({'red retrospot charlotte bag', 'charlotte bag pink polkadot', 'strawberry charlotte bag', 'woodland charlotte bag', 'charlotte bag suki design'})",5
+0.011058141249324225,"frozenset({'lunch bag  black skull.', 'red retrospot charlotte bag', 'strawberry charlotte bag'})",3
+0.010222637243819728,"frozenset({'lunch bag cars blue', 'red retrospot charlotte bag', 'strawberry charlotte bag'})",3
+0.016071165282351207,"frozenset({'woodland charlotte bag', 'red retrospot charlotte bag', 'strawberry charlotte bag'})",3
+0.014891630215756622,"frozenset({'woodland charlotte bag', 'charlotte bag suki design', 'strawberry charlotte bag'})",3
+0.01277829655477466,"frozenset({'woodland charlotte bag', 'charlotte bag suki design', 'red retrospot charlotte bag', 'strawberry charlotte bag'})",4
+0.015677986926819678,"frozenset({'pack of 60 dinosaur cake cases', 'pack of 72 retrospot cake cases'})",2
+0.01277829655477466,"frozenset({'pack of 60 dinosaur cake cases', '60 teatime fairy cake cases'})",2
+0.011697056077062958,"frozenset({'pack of 60 dinosaur cake cases', 'pack of 60 pink paisley cake cases'})",2
+0.011058141249324225,"frozenset({'pack of 60 dinosaur cake cases', '72 sweetheart fairy cake cases'})",2
+0.010664962893792696,"frozenset({'pack of 60 dinosaur cake cases', 'pack of 72 skull cake cases'})",2
+0.01818449894333317,"frozenset({'set/20 red retrospot paper napkins', 'set/6 red spotty paper plates'})",2
+0.010714110188234137,"frozenset({'strawberry lunch box with cutlery', 'lunch box with cutlery retrospot'})",2
+0.015186513982405269,"frozenset({'jumbo bag red retrospot', 'jam making set printed'})",2
+0.01326976949918907,"frozenset({'white hanging heart t-light holder', 'jam making set printed'})",2
+0.01086155207155846,"frozenset({'lunch bag red retrospot', 'jam making set printed'})",2
+0.013417211382513393,"frozenset({'pack of 72 retrospot cake cases', 'jam making set printed'})",2
+0.010517521010468373,"frozenset({'heart of wicker small', 'jam making set printed'})",2
+0.014498451860225095,"frozenset({'regency cakestand 3 tier', 'jam making set printed'})",2
+0.011697056077062958,"frozenset({'natural slate heart chalkboard', 'jam making set printed'})",2
+0.010075195360495405,"frozenset({'jumbo storage bag suki', 'jam making set printed'})",2
+0.017054111171180025,"frozenset({'set of 3 cake tins pantry design', 'jam making set printed'})",2
+0.03342016022017988,"frozenset({'jumbo bag red retrospot', 'jumbo shopper vintage red paisley'})",2
+0.025753182287315084,"frozenset({'jumbo storage bag suki', 'jumbo shopper vintage red paisley'})",2
+0.023000933798594386,"frozenset({'jumbo bag pink polkadot', 'jumbo shopper vintage red paisley'})",2
+0.013417211382513393,"frozenset({'white hanging heart t-light holder', 'jumbo shopper vintage red paisley'})",2
+0.010370079127144051,"frozenset({'jumbo shopper vintage red paisley', 'lunch bag  black skull.'})",2
+0.014006978915810684,"frozenset({'lunch bag red retrospot', 'jumbo shopper vintage red paisley'})",2
+0.01916744483216199,"frozenset({'jumbo storage bag suki', 'jumbo bag red retrospot', 'jumbo shopper vintage red paisley'})",3
+0.018577677298864698,"frozenset({'jumbo bag red retrospot', 'jumbo bag pink polkadot', 'jumbo shopper vintage red paisley'})",3
+0.015186513982405269,"frozenset({'jumbo storage bag suki', 'jumbo bag pink polkadot', 'jumbo shopper vintage red paisley'})",3
+0.013171474910306187,"frozenset({'jumbo storage bag suki', 'jumbo bag red retrospot', 'jumbo bag pink polkadot', 'jumbo shopper vintage red paisley'})",4
+0.010468373716026933,"frozenset({'retrospot tea set ceramic 11 pc', 'white hanging heart t-light holder'})",2
+0.010124342654936846,"frozenset({'white hanging heart t-light holder', 'gin + tonic diet metal sign'})",2
+0.01331891679363051,"frozenset({'gin + tonic diet metal sign', 'please one person metal sign'})",2
+0.014891630215756622,"frozenset({'cook with wine metal sign', 'gin + tonic diet metal sign'})",2
+0.01479333562687374,"frozenset({'cook with wine metal sign', 'please one person metal sign'})",2
+0.012532560082567454,"frozenset({'suki  shoulder bag', 'skull shoulder bag'})",2
+0.01081240477711702,"frozenset({'skull shoulder bag', 'dotcom postage'})",2
+0.011451319604855752,"frozenset({'white spot red ceramic drawer knob', 'red stripe ceramic drawer knob'})",2
+0.012680001965891778,"frozenset({'recycling bag retrospot', 'jumbo shopper vintage red paisley'})",2
+0.020396127193198013,"frozenset({'recycling bag retrospot', 'jumbo bag red retrospot'})",2
+0.01469504103799086,"frozenset({'recycling bag retrospot', 'jumbo bag pink polkadot'})",2
+0.014547599154666536,"frozenset({'jumbo storage bag suki', 'recycling bag retrospot'})",2
+0.013466358676954834,"frozenset({'recycling bag retrospot', 'jumbo bag woodland animals'})",2
+0.01081240477711702,"frozenset({'recycling bag retrospot', 'white hanging heart t-light holder'})",2
+0.010173489949378287,"frozenset({'recycling bag retrospot', 'jumbo  bag baroque black white'})",2
+0.011991939843711604,"frozenset({'recycling bag retrospot', 'lunch bag red retrospot'})",2
+0.010026048066053964,"frozenset({'recycling bag retrospot', 'jumbo bag red retrospot', 'jumbo shopper vintage red paisley'})",3
+0.011942792549270163,"frozenset({'recycling bag retrospot', 'jumbo bag red retrospot', 'jumbo bag pink polkadot'})",3
+0.01081240477711702,"frozenset({'jumbo storage bag suki', 'jumbo bag red retrospot', 'recycling bag retrospot'})",3
+0.013368064088071951,"frozenset({'recycling bag retrospot', 'toy tidy pink polkadot'})",2
+0.011991939843711604,"frozenset({'jumbo bag red retrospot', 'toy tidy pink polkadot'})",2
+0.010664962893792696,"frozenset({'toy tidy pink polkadot', 'jumbo bag pink polkadot'})",2
+0.020396127193198013,"frozenset({'natural slate heart chalkboard', 'white hanging heart t-light holder'})",2
+0.015677986926819678,"frozenset({'natural slate heart chalkboard', 'jumbo bag red retrospot'})",2
+0.011451319604855752,"frozenset({'natural slate heart chalkboard', 'regency cakestand 3 tier'})",2
+0.010714110188234137,"frozenset({'lunch bag red retrospot', 'natural slate heart chalkboard'})",2
+0.010566668304909814,"frozenset({'natural slate heart chalkboard', 'pack of 72 retrospot cake cases'})",2
+0.012630854671450337,"frozenset({'natural slate heart chalkboard', 'party bunting'})",2
+0.011647908782621516,"frozenset({'natural slate heart chalkboard', 'set of 3 cake tins pantry design'})",2
+0.014596746449107977,"frozenset({'natural slate heart chalkboard', 'heart of wicker small'})",2
+0.01921659212660343,"frozenset({'white hanging heart t-light holder', 'heart of wicker small'})",2
+0.012630854671450337,"frozenset({'jumbo bag red retrospot', 'heart of wicker small'})",2
+0.010468373716026933,"frozenset({'party bunting', 'heart of wicker small'})",2
+0.024229616159630412,"frozenset({'heart of wicker small', 'heart of wicker large'})",2
+0.010370079127144051,"frozenset({'natural slate heart chalkboard', 'heart of wicker large'})",2
+0.01759473141003588,"frozenset({'white hanging heart t-light holder', 'heart of wicker large'})",2
+0.010026048066053964,"frozenset({'white hanging heart t-light holder', 'heart of wicker small', 'heart of wicker large'})",3
+0.010124342654936846,"frozenset({'white hanging heart t-light holder', 'wood black board ant white finish'})",2
+0.010026048066053964,"frozenset({'white hanging heart t-light holder', 'cream heart card holder'})",2
+0.01906915024327911,"frozenset({'lunch bag spaceboy design', 'lunch bag dolly girl design'})",2
+0.01759473141003588,"frozenset({'lunch bag red retrospot', 'lunch bag dolly girl design'})",2
+0.014006978915810684,"frozenset({'lunch bag dolly girl design', 'lunch bag woodland'})",2
+0.013024033026981865,"frozenset({'lunch bag dolly girl design', 'lunch bag pink polkadot'})",2
+0.014842482921315181,"frozenset({'lunch bag dolly girl design', 'lunch bag  black skull.'})",2
+0.013515505971396275,"frozenset({'lunch bag dolly girl design', 'lunch bag cars blue'})",2
+0.013908684326927802,"frozenset({'lunch bag dolly girl design', 'lunch bag suki design'})",2
+0.011402172310414311,"frozenset({'lunch bag dolly girl design', 'lunch bag apple design'})",2
+0.011500466899297193,"frozenset({'lunch bag red retrospot', 'lunch bag spaceboy design', 'lunch bag dolly girl design'})",3
+0.013515505971396275,"frozenset({'jumbo bag red retrospot', 'jumbo bag dolly girl design'})",2
+0.010615815599351255,"frozenset({'jumbo bag dolly girl design', 'jumbo bag pink polkadot'})",2
+0.01130387772153143,"frozenset({'jumbo storage bag suki', 'jumbo bag dolly girl design'})",2
+0.022067135204207007,"frozenset({'jumbo bag red retrospot', 'white hanging heart t-light holder'})",2
+0.011205583132648548,"frozenset({'dotcom postage', 'small heart measuring spoons'})",2
+0.010714110188234137,"frozenset({'large heart measuring spoons', 'small heart measuring spoons'})",2
+0.014105273504693566,"frozenset({'jumbo bag red retrospot', 'set/20 red retrospot paper napkins'})",2
+0.010910699365999902,"frozenset({'set/20 red retrospot paper napkins', 'white hanging heart t-light holder'})",2
+0.014842482921315181,"frozenset({'pack of 72 retrospot cake cases', 'set/20 red retrospot paper napkins'})",2
+0.011008993954882784,"frozenset({'lunch bag red retrospot', 'set/20 red retrospot paper napkins'})",2
+0.02712930653167543,"frozenset({'paper chain kit vintage christmas', ""paper chain kit 50's christmas""})",2
+0.013073180321423305,"frozenset({'retrospot heart hot water bottle', 'scottie dog hot water bottle'})",2
+0.011991939843711604,"frozenset({'retrospot heart hot water bottle', 'chocolate hot water bottle'})",2
+0.010664962893792696,"frozenset({'hanging heart zinc t-light holder', 'white hanging heart t-light holder'})",2
+0.01720155305450435,"frozenset({'set/6 red spotty paper plates', 'set/6 red spotty paper cups'})",2
+0.014547599154666536,"frozenset({'set/20 red retrospot paper napkins', 'set/6 red spotty paper cups'})",2
+0.013024033026981865,"frozenset({'set/20 red retrospot paper napkins', 'set/6 red spotty paper plates', 'set/6 red spotty paper cups'})",3
+0.011156435838207107,"frozenset({'jam jar with pink lid', 'jam jar with green lid'})",2
+0.011598761488180075,"frozenset({'wooden box of dominoes', 'vintage snap cards'})",2
+0.011205583132648548,"frozenset({'dotcom postage', 'picnic basket wicker small'})",2
+0.010370079127144051,"frozenset({'clothes pegs retrospot pack 24', 'white hanging heart t-light holder'})",2
+0.010370079127144051,"frozenset({'clothes pegs retrospot pack 24', 'pack of 72 retrospot cake cases'})",2
+0.014498451860225095,"frozenset({'cook with wine metal sign', 'hand over the chocolate   sign'})",2
+0.013417211382513393,"frozenset({'gin + tonic diet metal sign', 'hand over the chocolate   sign'})",2
+0.012483412788126013,"frozenset({'hand over the chocolate   sign', 'please one person metal sign'})",2
+0.016464343637882736,"frozenset({'hand warmer scotty dog design', 'hand warmer owl design'})",2
+0.014006978915810684,"frozenset({'hand warmer scotty dog design', 'hand warmer bird design'})",2
+0.010222637243819728,"frozenset({'hand warmer red retrospot', 'hand warmer owl design'})",2
+0.010026048066053964,"frozenset({'hand warmer red retrospot', 'hand warmer scotty dog design'})",2
+0.018331940826657494,"frozenset({'alarm clock bakelike ivory', 'alarm clock bakelike red'})",2
+0.016415196343441293,"frozenset({'alarm clock bakelike ivory', 'alarm clock bakelike green'})",2
+0.013564653265837716,"frozenset({'alarm clock bakelike pink', 'alarm clock bakelike ivory'})",2
+0.01277829655477466,"frozenset({'alarm clock bakelike red', 'alarm clock bakelike ivory', 'alarm clock bakelike green'})",3
+0.010124342654936846,"frozenset({'alarm clock bakelike pink', 'alarm clock bakelike ivory', 'alarm clock bakelike red'})",3
+0.015284808571288151,"frozenset({'hand warmer bird design', 'hand warmer owl design'})",2
+0.014842482921315181,"frozenset({'alarm clock bakelike orange', 'alarm clock bakelike red'})",2
+0.013417211382513393,"frozenset({'alarm clock bakelike orange', 'alarm clock bakelike green'})",2
+0.010615815599351255,"frozenset({'alarm clock bakelike pink', 'alarm clock bakelike orange'})",2
+0.010222637243819728,"frozenset({'alarm clock bakelike red', 'alarm clock bakelike orange', 'alarm clock bakelike green'})",3
+0.015284808571288151,"frozenset({'scottie dog hot water bottle', 'chocolate hot water bottle'})",2
+0.019265739421044873,"frozenset({'hot water bottle i am so poorly', 'chocolate hot water bottle'})",2
+0.011156435838207107,"frozenset({'hot water bottle i am so poorly', 'scottie dog hot water bottle'})",2
+0.010664962893792696,"frozenset({'hot water bottle keep calm', 'hot water bottle i am so poorly'})",2
+0.02752248488720696,"frozenset({'lunch bag red retrospot', 'lunch bag spaceboy design'})",2
+0.011991939843711604,"frozenset({'lunch bag spaceboy design', 'white hanging heart t-light holder'})",2
+0.02516341475401779,"frozenset({'lunch bag spaceboy design', 'lunch bag  black skull.'})",2
+0.013957831621369243,"frozenset({'jumbo bag red retrospot', 'lunch bag spaceboy design'})",2
+0.010222637243819728,"frozenset({'jumbo storage bag suki', 'lunch bag spaceboy design'})",2
+0.011451319604855752,"frozenset({'pack of 72 retrospot cake cases', 'lunch bag spaceboy design'})",2
+0.010419226421585492,"frozenset({'lunch bag spaceboy design', 'regency cakestand 3 tier'})",2
+0.011107288543765666,"frozenset({'lunch bag spaceboy design', 'party bunting'})",2
+0.01562883963237824,"frozenset({'lunch bag red retrospot', 'lunch bag spaceboy design', 'lunch bag  black skull.'})",3
+0.029783260431513244,"frozenset({'lunch bag red retrospot', 'lunch bag pink polkadot'})",2
+0.021035042020936746,"frozenset({'lunch bag spaceboy design', 'lunch bag pink polkadot'})",2
+0.013220622204747628,"frozenset({'white hanging heart t-light holder', 'lunch bag pink polkadot'})",2
+0.017840467882243083,"frozenset({'jumbo bag red retrospot', 'lunch bag pink polkadot'})",2
+0.010271784538261169,"frozenset({'pack of 72 retrospot cake cases', 'lunch bag pink polkadot'})",2
+0.026736128176143903,"frozenset({'lunch bag pink polkadot', 'lunch bag  black skull.'})",2
+0.012090234432594486,"frozenset({'jumbo storage bag suki', 'lunch bag pink polkadot'})",2
+0.010271784538261169,"frozenset({'party bunting', 'lunch bag pink polkadot'})",2
+0.02467194180960338,"frozenset({'lunch bag pink polkadot', 'lunch bag cars blue'})",2
+0.01479333562687374,"frozenset({'jumbo bag pink polkadot', 'lunch bag pink polkadot'})",2
+0.01430186268245933,"frozenset({'lunch bag red retrospot', 'lunch bag spaceboy design', 'lunch bag pink polkadot'})",3
+0.013024033026981865,"frozenset({'lunch bag spaceboy design', 'lunch bag pink polkadot', 'lunch bag  black skull.'})",3
+0.012925738438098983,"frozenset({'lunch bag spaceboy design', 'lunch bag pink polkadot', 'lunch bag cars blue'})",3
+0.01130387772153143,"frozenset({'lunch bag red retrospot', 'jumbo bag red retrospot', 'lunch bag pink polkadot'})",3
+0.0177421732933602,"frozenset({'lunch bag red retrospot', 'lunch bag pink polkadot', 'lunch bag  black skull.'})",3
+0.015825428810144003,"frozenset({'lunch bag red retrospot', 'lunch bag pink polkadot', 'lunch bag cars blue'})",3
+0.01523566127684671,"frozenset({'lunch bag pink polkadot', 'lunch bag cars blue', 'lunch bag  black skull.'})",3
+0.011058141249324225,"frozenset({'lunch bag red retrospot', 'lunch bag pink polkadot', 'lunch bag cars blue', 'lunch bag  black skull.'})",4
+0.010517521010468373,"frozenset({'jumbo bag red retrospot', 'jumbo bag pink polkadot', 'lunch bag pink polkadot'})",3
+0.025851476876197967,"frozenset({'lunch bag red retrospot', 'lunch bag woodland'})",2
+0.02354155403745024,"frozenset({'lunch bag spaceboy design', 'lunch bag woodland'})",2
+0.019462328598810634,"frozenset({'lunch bag pink polkadot', 'lunch bag woodland'})",2
+0.010468373716026933,"frozenset({'white hanging heart t-light holder', 'lunch bag woodland'})",2
+0.021821398731999803,"frozenset({'lunch bag woodland', 'lunch bag  black skull.'})",2
+0.01425271538801789,"frozenset({'jumbo bag red retrospot', 'lunch bag woodland'})",2
+0.012925738438098983,"frozenset({'red retrospot charlotte bag', 'lunch bag woodland'})",2
+0.01130387772153143,"frozenset({'jumbo storage bag suki', 'lunch bag woodland'})",2
+0.01032093183270261,"frozenset({'pack of 72 retrospot cake cases', 'lunch bag woodland'})",2
+0.022017987909765568,"frozenset({'lunch bag cars blue', 'lunch bag woodland'})",2
+0.019118297537720548,"frozenset({'lunch bag suki design', 'lunch bag woodland'})",2
+0.01813535164889173,"frozenset({'lunch bag apple design', 'lunch bag woodland'})",2
+0.014989924804639504,"frozenset({'lunch bag red retrospot', 'lunch bag spaceboy design', 'lunch bag woodland'})",3
+0.013908684326927802,"frozenset({'lunch bag red retrospot', 'lunch bag pink polkadot', 'lunch bag woodland'})",3
+0.011746203371504399,"frozenset({'lunch bag spaceboy design', 'lunch bag pink polkadot', 'lunch bag woodland'})",3
+0.012090234432594486,"frozenset({'lunch bag pink polkadot', 'lunch bag woodland', 'lunch bag  black skull.'})",3
+0.011697056077062958,"frozenset({'lunch bag cars blue', 'lunch bag pink polkadot', 'lunch bag woodland'})",3
+0.014154420799135007,"frozenset({'lunch bag red retrospot', 'lunch bag woodland', 'lunch bag  black skull.'})",3
+0.012876591143657542,"frozenset({'lunch bag spaceboy design', 'lunch bag woodland', 'lunch bag  black skull.'})",3
+0.012581707377008896,"frozenset({'lunch bag cars blue', 'lunch bag woodland', 'lunch bag  black skull.'})",3
+0.013662947854720598,"frozenset({'lunch bag red retrospot', 'lunch bag cars blue', 'lunch bag woodland'})",3
+0.012827443849216101,"frozenset({'lunch bag spaceboy design', 'lunch bag cars blue', 'lunch bag woodland'})",3
+0.011991939843711604,"frozenset({'lunch bag suki design', 'lunch bag woodland', 'lunch bag  black skull.'})",3
+0.011156435838207107,"frozenset({'lunch bag suki design', 'lunch bag cars blue', 'lunch bag woodland'})",3
+0.010468373716026933,"frozenset({'lunch bag suki design', 'lunch bag pink polkadot', 'lunch bag woodland'})",3
+0.013417211382513393,"frozenset({'lunch bag red retrospot', 'lunch bag suki design', 'lunch bag woodland'})",3
+0.010910699365999902,"frozenset({'lunch bag spaceboy design', 'lunch bag suki design', 'lunch bag woodland'})",3
+0.011598761488180075,"frozenset({'lunch bag red retrospot', 'lunch bag apple design', 'lunch bag woodland'})",3
+0.010615815599351255,"frozenset({'lunch bag spaceboy design', 'lunch bag apple design', 'lunch bag woodland'})",3
+0.010566668304909814,"frozenset({'lunch bag suki design', 'lunch bag apple design', 'lunch bag woodland'})",3
+0.010566668304909814,"frozenset({'lunch bag apple design', 'lunch bag woodland', 'lunch bag  black skull.'})",3
+0.012286823610360249,"frozenset({'bathroom metal sign', 'white hanging heart t-light holder'})",2
+0.012680001965891778,"frozenset({'bathroom metal sign', 'dotcom postage'})",2
+0.011991939843711604,"frozenset({'jumbo bag red retrospot', 'bathroom metal sign'})",2
+0.011402172310414311,"frozenset({'ladies & gentlemen metal sign', 'please one person metal sign'})",2
+0.010664962893792696,"frozenset({'6 ribbons rustic charm', 'scandinavian reds ribbons'})",2
+0.014400157271342213,"frozenset({'toilet metal sign', 'bathroom metal sign'})",2
+0.013859537032486362,"frozenset({'white hanging heart t-light holder', 'candleholder pink hanging heart'})",2
+0.01081240477711702,"frozenset({'kitchen metal sign', 'bathroom metal sign'})",2
+0.01371209514916204,"frozenset({'pack of 72 retrospot cake cases', 'lunch bag  black skull.'})",2
+0.03150341573696368,"frozenset({'lunch bag red retrospot', 'lunch bag  black skull.'})",2
+0.018479382709981815,"frozenset({'jumbo bag red retrospot', 'lunch bag  black skull.'})",2
+0.012925738438098983,"frozenset({'white hanging heart t-light holder', 'lunch bag  black skull.'})",2
+0.011598761488180075,"frozenset({'regency cakestand 3 tier', 'lunch bag  black skull.'})",2
+0.01233597090480169,"frozenset({'party bunting', 'lunch bag  black skull.'})",2
+0.011549614193738634,"frozenset({'lunch bag red retrospot', 'jumbo bag red retrospot', 'lunch bag  black skull.'})",3
+0.025654887698432202,"frozenset({'lunch bag cars blue', 'lunch bag  black skull.'})",2
+0.01125473042708999,"frozenset({'pack of 72 retrospot cake cases', 'lunch bag cars blue'})",2
+0.027227601120558314,"frozenset({'lunch bag red retrospot', 'lunch bag cars blue'})",2
+0.023738143215216,"frozenset({'lunch bag spaceboy design', 'lunch bag cars blue'})",2
+0.015972870693468325,"frozenset({'jumbo bag red retrospot', 'lunch bag cars blue'})",2
+0.012188529021477369,"frozenset({'white hanging heart t-light holder', 'lunch bag cars blue'})",2
+0.01179535066594584,"frozenset({'jumbo storage bag suki', 'lunch bag cars blue'})",2
+0.010910699365999902,"frozenset({'jumbo bag pink polkadot', 'lunch bag cars blue'})",2
+0.01086155207155846,"frozenset({'regency cakestand 3 tier', 'lunch bag cars blue'})",2
+0.010075195360495405,"frozenset({'lunch bag cars blue', 'jumbo shopper vintage red paisley'})",2
+0.011058141249324225,"frozenset({'party bunting', 'lunch bag cars blue'})",2
+0.015874576104585442,"frozenset({'lunch bag red retrospot', 'lunch bag cars blue', 'lunch bag  black skull.'})",3
+0.014449304565783654,"frozenset({'lunch bag red retrospot', 'lunch bag spaceboy design', 'lunch bag cars blue'})",3
+0.014006978915810684,"frozenset({'lunch bag spaceboy design', 'lunch bag cars blue', 'lunch bag  black skull.'})",3
+0.010124342654936846,"frozenset({'pack of 72 retrospot cake cases', 'set of 3 butterfly cookie cutters'})",2
+0.015284808571288151,"frozenset({'set of 3 heart cookie cutters', 'set of 3 butterfly cookie cutters'})",2
+0.018331940826657494,"frozenset({'pack of 72 retrospot cake cases', 'pack of 72 skull cake cases'})",2
+0.010370079127144051,"frozenset({'pack of 72 skull cake cases', 'lunch bag  black skull.'})",2
+0.012237676315918808,"frozenset({'60 teatime fairy cake cases', 'pack of 72 skull cake cases'})",2
+0.010173489949378287,"frozenset({'lunch bag red retrospot', 'pack of 72 skull cake cases'})",2
+0.01479333562687374,"frozenset({'pack of 72 retrospot cake cases', '72 sweetheart fairy cake cases'})",2
+0.012090234432594486,"frozenset({'pack of 60 pink paisley cake cases', '72 sweetheart fairy cake cases'})",2
+0.013613800560279157,"frozenset({'60 teatime fairy cake cases', '72 sweetheart fairy cake cases'})",2
+0.01469504103799086,"frozenset({'pack of 72 retrospot cake cases', 'pack of 60 spaceboy cake cases'})",2
+0.010517521010468373,"frozenset({'pack of 60 dinosaur cake cases', 'pack of 60 spaceboy cake cases'})",2
+0.010222637243819728,"frozenset({'pack of 60 spaceboy cake cases', 'pack of 72 skull cake cases'})",2
+0.011156435838207107,"frozenset({'60 teatime fairy cake cases', 'pack of 60 spaceboy cake cases'})",2
+0.010763257482675578,"frozenset({'jumbo bag red retrospot', 'set/5 red retrospot lid glass bowls'})",2
+0.011746203371504399,"frozenset({'white hanging heart t-light holder', 'set/5 red retrospot lid glass bowls'})",2
+0.010271784538261169,"frozenset({'pack of 72 retrospot cake cases', 'set/5 red retrospot lid glass bowls'})",2
+0.010271784538261169,"frozenset({'lunch bag red retrospot', 'set/5 red retrospot lid glass bowls'})",2
+0.014154420799135007,"frozenset({'white hanging heart t-light holder', 'victorian glass hanging t-light'})",2
+0.011598761488180075,"frozenset({'natural slate heart chalkboard', 'victorian glass hanging t-light'})",2
+0.011402172310414311,"frozenset({'jumbo bag red retrospot', 'victorian glass hanging t-light'})",2
+0.011008993954882784,"frozenset({'regency cakestand 3 tier', 'victorian glass hanging t-light'})",2
+0.010959846660441343,"frozenset({'party bunting', 'victorian glass hanging t-light'})",2
+0.010173489949378287,"frozenset({'jumbo bag red retrospot', 'doormat red retrospot'})",2
+0.015530545043495356,"frozenset({'blue harmonica in box', 'red  harmonica in box'})",2
+0.010370079127144051,"frozenset({'plasters in tin skulls', 'plasters in tin spaceboy'})",2
+0.011451319604855752,"frozenset({'plasters in tin skulls', 'plasters in tin woodland animals'})",2
+0.011549614193738634,"frozenset({'dotcom postage', 'lovebird hanging decoration white'})",2
+0.01125473042708999,"frozenset({'white hanging heart t-light holder', 'lovebird hanging decoration white'})",2
+0.01376124244360348,"frozenset({'single heart zinc t-light holder', 'hanging heart zinc t-light holder'})",2
+0.026392097115053817,"frozenset({'jumbo bag red retrospot', 'jumbo bag strawberry'})",2
+0.015383103160171033,"frozenset({'jumbo storage bag suki', 'jumbo bag strawberry'})",2
+0.017103258465621468,"frozenset({'jumbo bag pink polkadot', 'jumbo bag strawberry'})",2
+0.01331891679363051,"frozenset({'jumbo  bag baroque black white', 'jumbo bag strawberry'})",2
+0.011991939843711604,"frozenset({'jumbo bag strawberry', 'jumbo shopper vintage red paisley'})",2
+0.011008993954882784,"frozenset({'jumbo bag woodland animals', 'jumbo bag strawberry'})",2
+0.010517521010468373,"frozenset({'jumbo bag strawberry', 'lunch bag  black skull.'})",2
+0.014154420799135007,"frozenset({'jumbo bag strawberry', 'jumbo bag pink vintage paisley'})",2
+0.012188529021477369,"frozenset({'lunch bag red retrospot', 'jumbo bag strawberry'})",2
+0.010910699365999902,"frozenset({'jumbo bag strawberry', 'red retrospot charlotte bag'})",2
+0.011353025015972872,"frozenset({'jumbo bag apples', 'jumbo bag strawberry'})",2
+0.010173489949378287,"frozenset({'jumbo bag strawberry', 'jumbo bag vintage leaf'})",2
+0.01184449796038728,"frozenset({'jumbo storage bag suki', 'jumbo bag red retrospot', 'jumbo bag strawberry'})",3
+0.01371209514916204,"frozenset({'jumbo bag red retrospot', 'jumbo bag pink polkadot', 'jumbo bag strawberry'})",3
+0.010419226421585492,"frozenset({'jumbo bag red retrospot', 'jumbo bag strawberry', 'jumbo bag pink vintage paisley'})",3
+0.01921659212660343,"frozenset({'jumbo bag owls', 'jumbo bag red retrospot'})",2
+0.015677986926819678,"frozenset({'jumbo storage bag suki', 'jumbo bag owls'})",2
+0.013859537032486362,"frozenset({'jumbo bag owls', 'jumbo bag woodland animals'})",2
+0.01376124244360348,"frozenset({'jumbo bag owls', 'jumbo bag pink polkadot'})",2
+0.012827443849216101,"frozenset({'jumbo bag owls', 'jumbo shopper vintage red paisley'})",2
+0.012630854671450337,"frozenset({'jumbo bag owls', 'jumbo  bag baroque black white'})",2
+0.010222637243819728,"frozenset({'lunch bag red retrospot', 'jumbo bag owls'})",2
+0.012237676315918808,"frozenset({'jumbo bag owls', 'dotcom postage'})",2
+0.010370079127144051,"frozenset({'jumbo bag owls', 'jumbo bag apples'})",2
+0.011353025015972872,"frozenset({'jumbo storage bag suki', 'jumbo bag red retrospot', 'jumbo bag owls'})",3
+0.01032093183270261,"frozenset({'jumbo bag owls', 'jumbo bag red retrospot', 'jumbo bag pink polkadot'})",3
+0.010026048066053964,"frozenset({'red retrospot shopper bag', 'strawberry shopper bag'})",2
+0.011598761488180075,"frozenset({'6 ribbons rustic charm', 'jam making set printed'})",2
+0.011893645254828722,"frozenset({'6 ribbons rustic charm', 'regency cakestand 3 tier'})",2
+0.010173489949378287,"frozenset({'6 ribbons rustic charm', 'jam making set with jars'})",2
+0.012630854671450337,"frozenset({'6 ribbons rustic charm', 'white hanging heart t-light holder'})",2
+0.011697056077062958,"frozenset({'pack of 72 retrospot cake cases', '6 ribbons rustic charm'})",2
+0.010664962893792696,"frozenset({'jumbo bag red retrospot', '6 ribbons rustic charm'})",2
+0.01032093183270261,"frozenset({'recipe box pantry yellow design', '6 ribbons rustic charm'})",2
+0.026441244409495256,"frozenset({'spaceboy lunch box', 'dolly girl lunch box'})",2
+0.01032093183270261,"frozenset({'lunch bag red retrospot', 'dolly girl lunch box'})",2
+0.012434265493684572,"frozenset({'jumbo bag red retrospot', 'dolly girl lunch box'})",2
+0.010419226421585492,"frozenset({'dolly girl lunch box', 'white hanging heart t-light holder'})",2
+0.015137366687963828,"frozenset({'round snack boxes set of4 woodland', 'round snack boxes set of 4 fruits'})",2
+0.010419226421585492,"frozenset({'christmas craft little friends', ""paper chain kit 50's christmas""})",2
+0.013564653265837716,"frozenset({'christmas craft little friends', 'christmas craft tree top angel'})",2
+0.010664962893792696,"frozenset({'feltcraft cushion owl', 'feltcraft cushion rabbit'})",2
+0.010959846660441343,"frozenset({'feltcraft cushion butterfly', 'feltcraft cushion rabbit'})",2
+0.010026048066053964,"frozenset({'jam making set printed', 'vintage snap cards'})",2
+0.010517521010468373,"frozenset({'white hanging heart t-light holder', 'vintage snap cards'})",2
+0.010419226421585492,"frozenset({'jumbo bag red retrospot', 'vintage snap cards'})",2
+0.01671008011008994,"frozenset({'plasters in tin woodland animals', 'plasters in tin spaceboy'})",2
+0.01331891679363051,"frozenset({'60 cake cases vintage christmas', ""paper chain kit 50's christmas""})",2
+0.012286823610360249,"frozenset({'60 cake cases vintage christmas', 'paper chain kit vintage christmas'})",2
+0.01326976949918907,"frozenset({'60 cake cases vintage christmas', 'set of 20 vintage christmas napkins'})",2
+0.012483412788126013,"frozenset({'set of 20 vintage christmas napkins', ""paper chain kit 50's christmas""})",2
+0.011500466899297193,"frozenset({'paper chain kit vintage christmas', 'set of 20 vintage christmas napkins'})",2
+0.011549614193738634,"frozenset({'plasters in tin woodland animals', 'plasters in tin vintage paisley'})",2
+0.010566668304909814,"frozenset({'plasters in tin vintage paisley', 'plasters in tin spaceboy'})",2
+0.011893645254828722,"frozenset({'pack of 72 retrospot cake cases', '60 cake cases dolly girl design'})",2
+0.010222637243819728,"frozenset({'pack of 60 pink paisley cake cases', '60 cake cases dolly girl design'})",2
+0.012532560082567454,"frozenset({'feltcraft princess charlotte doll', 'feltcraft princess lola doll'})",2
+0.011451319604855752,"frozenset({'pack of 72 retrospot cake cases', 'pack of 60 mushroom cake cases'})",2
+0.010075195360495405,"frozenset({'pack of 72 retrospot cake cases', 'red retrospot oven glove'})",2
+0.010271784538261169,"frozenset({'white hanging heart t-light holder', 'zinc metal heart decoration'})",2
+0.011942792549270163,"frozenset({'christmas craft little friends', 'christmas craft white fairy'})",2
+0.011942792549270163,"frozenset({'vintage paisley stationery set', 'dotcom postage'})",2
+0.017496436821152997,"frozenset({'regency cakestand 3 tier', 'white hanging heart t-light holder'})",2
+0.014056126210252125,"frozenset({'jumbo bag red retrospot', 'regency cakestand 3 tier'})",2
+0.020346979898756574,"frozenset({'jumbo bag red retrospot', 'jumbo storage bag skulls'})",2
+0.018037057060008847,"frozenset({'jumbo storage bag suki', 'jumbo storage bag skulls'})",2
+0.01626775446011697,"frozenset({'jumbo bag pink polkadot', 'jumbo storage bag skulls'})",2
+0.01479333562687374,"frozenset({'jumbo storage bag skulls', 'jumbo shopper vintage red paisley'})",2
+0.01371209514916204,"frozenset({'jumbo bag woodland animals', 'jumbo storage bag skulls'})",2
+0.013024033026981865,"frozenset({'jumbo  bag baroque black white', 'jumbo storage bag skulls'})",2
+0.01277829655477466,"frozenset({'jumbo storage bag skulls', 'lunch bag  black skull.'})",2
+0.010271784538261169,"frozenset({'jumbo storage bag skulls', 'jumbo bag strawberry'})",2
+0.012237676315918808,"frozenset({'jumbo storage bag skulls', 'jumbo bag pink vintage paisley'})",2
+0.010370079127144051,"frozenset({'jumbo storage bag skulls', 'dotcom postage'})",2
+0.011942792549270163,"frozenset({'jumbo storage bag skulls', 'jumbo bag apples'})",2
+0.012729149260333219,"frozenset({'jumbo storage bag suki', 'jumbo bag red retrospot', 'jumbo storage bag skulls'})",3
+0.012532560082567454,"frozenset({'jumbo bag red retrospot', 'jumbo bag pink polkadot', 'jumbo storage bag skulls'})",3
+0.011107288543765666,"frozenset({'jumbo bag red retrospot', 'jumbo storage bag skulls', 'jumbo shopper vintage red paisley'})",3
+0.010419226421585492,"frozenset({'jumbo storage bag suki', 'jumbo storage bag skulls', 'jumbo shopper vintage red paisley'})",3
+0.010222637243819728,"frozenset({'herb marker basil', 'herb marker mint'})",2
+0.010517521010468373,"frozenset({'herb marker basil', 'herb marker rosemary'})",2
+0.010419226421585492,"frozenset({'herb marker rosemary', 'herb marker mint'})",2
+0.010566668304909814,"frozenset({'herb marker parsley', 'herb marker rosemary'})",2
+0.010419226421585492,"frozenset({'herb marker parsley', 'herb marker mint'})",2
+0.010419226421585492,"frozenset({'herb marker basil', 'herb marker parsley'})",2
+0.01086155207155846,"frozenset({'herb marker rosemary', 'herb marker thyme'})",2
+0.010468373716026933,"frozenset({'herb marker parsley', 'herb marker thyme'})",2
+0.01032093183270261,"frozenset({'herb marker basil', 'herb marker thyme'})",2
+0.010124342654936846,"frozenset({'herb marker mint', 'herb marker thyme'})",2
+0.010615815599351255,"frozenset({'set of 3 cake tins pantry design', 'pack of 20 napkins pantry design'})",2
+0.025802329581756524,"frozenset({'regency cakestand 3 tier', 'roses regency teacup and saucer'})",2
+0.012729149260333219,"frozenset({'white hanging heart t-light holder', 'roses regency teacup and saucer'})",2
+0.012581707377008896,"frozenset({'jumbo bag red retrospot', 'roses regency teacup and saucer'})",2
+0.01233597090480169,"frozenset({'roses regency teacup and saucer', 'jam making set with jars'})",2
+0.011746203371504399,"frozenset({'roses regency teacup and saucer', 'jam making set printed'})",2
+0.010370079127144051,"frozenset({'recipe box pantry yellow design', 'roses regency teacup and saucer'})",2
+0.010615815599351255,"frozenset({'party bunting', 'roses regency teacup and saucer'})",2
+0.011647908782621516,"frozenset({'roses regency teacup and saucer', 'set of 3 cake tins pantry design'})",2
+0.03774512213102669,"frozenset({'roses regency teacup and saucer', 'green regency teacup and saucer'})",2
+0.02501597287069347,"frozenset({'regency cakestand 3 tier', 'green regency teacup and saucer'})",2
+0.01326976949918907,"frozenset({'jumbo bag red retrospot', 'green regency teacup and saucer'})",2
+0.013220622204747628,"frozenset({'white hanging heart t-light holder', 'green regency teacup and saucer'})",2
+0.01277829655477466,"frozenset({'jam making set with jars', 'green regency teacup and saucer'})",2
+0.012532560082567454,"frozenset({'jam making set printed', 'green regency teacup and saucer'})",2
+0.01086155207155846,"frozenset({'recipe box pantry yellow design', 'green regency teacup and saucer'})",2
+0.010370079127144051,"frozenset({'natural slate heart chalkboard', 'green regency teacup and saucer'})",2
+0.010075195360495405,"frozenset({'victorian glass hanging t-light', 'green regency teacup and saucer'})",2
+0.011500466899297193,"frozenset({'party bunting', 'green regency teacup and saucer'})",2
+0.011156435838207107,"frozenset({'set of 3 cake tins pantry design', 'green regency teacup and saucer'})",2
+0.020052096132107927,"frozenset({'regency cakestand 3 tier', 'roses regency teacup and saucer', 'green regency teacup and saucer'})",3
+0.010271784538261169,"frozenset({'roses regency teacup and saucer', 'jam making set with jars', 'green regency teacup and saucer'})",3
+0.014596746449107977,"frozenset({'red kitchen scales', 'ivory kitchen scales'})",2
+0.026293802526170935,"frozenset({'jumbo bag red retrospot', 'jumbo bag woodland animals'})",2
+0.022067135204207007,"frozenset({'jumbo storage bag suki', 'jumbo bag woodland animals'})",2
+0.02108418931537819,"frozenset({'jumbo bag woodland animals', 'jumbo bag pink polkadot'})",2
+0.01916744483216199,"frozenset({'jumbo bag woodland animals', 'jumbo shopper vintage red paisley'})",2
+0.014940777510198063,"frozenset({'jumbo bag woodland animals', 'jumbo  bag baroque black white'})",2
+0.010517521010468373,"frozenset({'jumbo bag woodland animals', 'white hanging heart t-light holder'})",2
+0.01376124244360348,"frozenset({'jumbo bag woodland animals', 'jumbo bag pink vintage paisley'})",2
+0.011746203371504399,"frozenset({'lunch bag red retrospot', 'jumbo bag woodland animals'})",2
+0.011647908782621516,"frozenset({'jumbo bag woodland animals', 'lunch bag woodland'})",2
+0.014891630215756622,"frozenset({'jumbo bag woodland animals', 'jumbo bag apples'})",2
+0.016071165282351207,"frozenset({'jumbo storage bag suki', 'jumbo bag red retrospot', 'jumbo bag woodland animals'})",3
+0.016759227404531382,"frozenset({'jumbo bag red retrospot', 'jumbo bag woodland animals', 'jumbo bag pink polkadot'})",3
+0.013662947854720598,"frozenset({'jumbo storage bag suki', 'jumbo bag woodland animals', 'jumbo bag pink polkadot'})",3
+0.011500466899297193,"frozenset({'jumbo storage bag suki', 'jumbo bag red retrospot', 'jumbo bag woodland animals', 'jumbo bag pink polkadot'})",4
+0.014596746449107977,"frozenset({'jumbo bag red retrospot', 'jumbo bag woodland animals', 'jumbo shopper vintage red paisley'})",3
+0.013515505971396275,"frozenset({'jumbo storage bag suki', 'jumbo bag woodland animals', 'jumbo shopper vintage red paisley'})",3
+0.012483412788126013,"frozenset({'jumbo bag woodland animals', 'jumbo bag pink polkadot', 'jumbo shopper vintage red paisley'})",3
+0.010910699365999902,"frozenset({'jumbo storage bag suki', 'jumbo bag red retrospot', 'jumbo bag woodland animals', 'jumbo shopper vintage red paisley'})",4
+0.010664962893792696,"frozenset({'jumbo bag red retrospot', 'jumbo bag woodland animals', 'jumbo bag pink polkadot', 'jumbo shopper vintage red paisley'})",4
+0.011451319604855752,"frozenset({'jumbo bag red retrospot', 'jumbo bag woodland animals', 'jumbo  bag baroque black white'})",3
+0.010222637243819728,"frozenset({'jumbo bag red retrospot', 'jumbo bag woodland animals', 'jumbo bag pink vintage paisley'})",3
+0.01130387772153143,"frozenset({'jumbo bag red retrospot', 'jumbo bag woodland animals', 'jumbo bag apples'})",3
+0.01621860716567553,"frozenset({'recipe box pantry yellow design', 'jam making set printed'})",2
+0.01326976949918907,"frozenset({'pack of 72 retrospot cake cases', 'recipe box pantry yellow design'})",2
+0.016464343637882736,"frozenset({'recipe box pantry yellow design', 'jam making set with jars'})",2
+0.014596746449107977,"frozenset({'recipe box pantry yellow design', 'regency cakestand 3 tier'})",2
+0.014498451860225095,"frozenset({'recipe box pantry yellow design', 'white hanging heart t-light holder'})",2
+0.014154420799135007,"frozenset({'recipe box pantry yellow design', 'jumbo bag red retrospot'})",2
+0.01184449796038728,"frozenset({'lunch bag red retrospot', 'recipe box pantry yellow design'})",2
+0.011697056077062958,"frozenset({'natural slate heart chalkboard', 'recipe box pantry yellow design'})",2
+0.011598761488180075,"frozenset({'recipe box pantry yellow design', 'party bunting'})",2
+0.019364034009927752,"frozenset({'recipe box pantry yellow design', 'set of 3 cake tins pantry design'})",2
+0.01130387772153143,"frozenset({'pack of 72 retrospot cake cases', 'box of 24 cocktail parasols'})",2
+0.010615815599351255,"frozenset({'box of 24 cocktail parasols', 'regency cakestand 3 tier'})",2
+0.013908684326927802,"frozenset({'plasters in tin circus parade', 'plasters in tin woodland animals'})",2
+0.013220622204747628,"frozenset({'plasters in tin circus parade', 'plasters in tin spaceboy'})",2
+0.01179535066594584,"frozenset({'plasters in tin strongman', 'plasters in tin circus parade'})",2
+0.011697056077062958,"frozenset({'plasters in tin strongman', 'plasters in tin woodland animals'})",2
+0.010959846660441343,"frozenset({'plasters in tin strongman', 'plasters in tin spaceboy'})",2
+0.010566668304909814,"frozenset({'recipe box pantry yellow design', 'recipe box retrospot'})",2
+0.024917678281810587,"frozenset({'charlotte bag suki design', 'red retrospot charlotte bag'})",2
+0.016955816582297143,"frozenset({'lunch bag red retrospot', 'charlotte bag suki design'})",2
+0.015923723399026885,"frozenset({'jumbo bag red retrospot', 'charlotte bag suki design'})",2
+0.013417211382513393,"frozenset({'pack of 72 retrospot cake cases', 'charlotte bag suki design'})",2
+0.011500466899297193,"frozenset({'regency cakestand 3 tier', 'charlotte bag suki design'})",2
+0.011156435838207107,"frozenset({'charlotte bag suki design', 'lunch bag pink polkadot'})",2
+0.010615815599351255,"frozenset({'white hanging heart t-light holder', 'charlotte bag suki design'})",2
+0.010124342654936846,"frozenset({'recipe box pantry yellow design', 'charlotte bag suki design'})",2
+0.014989924804639504,"frozenset({'charlotte bag suki design', 'lunch bag  black skull.'})",2
+0.013810389738044921,"frozenset({'jumbo storage bag suki', 'charlotte bag suki design'})",2
+0.013368064088071951,"frozenset({'charlotte bag suki design', 'lunch bag cars blue'})",2
+0.012139381727035927,"frozenset({'lunch bag spaceboy design', 'charlotte bag suki design'})",2
+0.012237676315918808,"frozenset({'party bunting', 'charlotte bag suki design'})",2
+0.012041087138153045,"frozenset({'charlotte bag suki design', 'lunch bag woodland'})",2
+0.014006978915810684,"frozenset({'charlotte bag suki design', 'lunch bag suki design'})",2
+0.012090234432594486,"frozenset({'charlotte bag suki design', 'lunch bag apple design'})",2
+0.012729149260333219,"frozenset({'lunch bag red retrospot', 'charlotte bag suki design', 'red retrospot charlotte bag'})",3
+0.010370079127144051,"frozenset({'jumbo bag red retrospot', 'charlotte bag suki design', 'red retrospot charlotte bag'})",3
+0.010271784538261169,"frozenset({'pack of 72 retrospot cake cases', 'charlotte bag suki design', 'red retrospot charlotte bag'})",3
+0.011058141249324225,"frozenset({'charlotte bag suki design', 'red retrospot charlotte bag', 'lunch bag  black skull.'})",3
+0.010370079127144051,"frozenset({'charlotte bag suki design', 'lunch bag cars blue', 'red retrospot charlotte bag'})",3
+0.016906669287855704,"frozenset({'jumbo bag red retrospot', 'jumbo bag toys'})",2
+0.014645893743549418,"frozenset({'jumbo storage bag suki', 'jumbo bag toys'})",2
+0.014203568093576448,"frozenset({'jumbo bag woodland animals', 'jumbo bag toys'})",2
+0.013859537032486362,"frozenset({'jumbo bag pink polkadot', 'jumbo bag toys'})",2
+0.013073180321423305,"frozenset({'jumbo shopper vintage red paisley', 'jumbo bag toys'})",2
+0.010468373716026933,"frozenset({'jumbo  bag baroque black white', 'jumbo bag toys'})",2
+0.013417211382513393,"frozenset({'dotcom postage', 'jumbo bag toys'})",2
+0.011598761488180075,"frozenset({'jumbo storage bag suki', 'jumbo bag red retrospot', 'jumbo bag toys'})",3
+0.011156435838207107,"frozenset({'jumbo bag red retrospot', 'jumbo bag woodland animals', 'jumbo bag toys'})",3
+0.010615815599351255,"frozenset({'jumbo storage bag suki', 'jumbo bag woodland animals', 'jumbo bag toys'})",3
+0.011451319604855752,"frozenset({'jumbo bag red retrospot', 'jumbo bag pink polkadot', 'jumbo bag toys'})",3
+0.010664962893792696,"frozenset({'jumbo bag red retrospot', 'jumbo shopper vintage red paisley', 'jumbo bag toys'})",3
+0.010468373716026933,"frozenset({'jumbo storage bag suki', 'jumbo shopper vintage red paisley', 'jumbo bag toys'})",3
+0.010664962893792696,"frozenset({'jumbo bag red retrospot', 'dotcom postage', 'jumbo bag toys'})",3
+0.020936747432053867,"frozenset({'jumbo bag red retrospot', 'red retrospot charlotte bag'})",2
+0.019364034009927752,"frozenset({'lunch bag red retrospot', 'red retrospot charlotte bag'})",2
+0.01572713422126112,"frozenset({'pack of 72 retrospot cake cases', 'red retrospot charlotte bag'})",2
+0.013515505971396275,"frozenset({'lunch bag pink polkadot', 'red retrospot charlotte bag'})",2
+0.012630854671450337,"frozenset({'regency cakestand 3 tier', 'red retrospot charlotte bag'})",2
+0.011353025015972872,"frozenset({'recipe box pantry yellow design', 'red retrospot charlotte bag'})",2
+0.011353025015972872,"frozenset({'white hanging heart t-light holder', 'red retrospot charlotte bag'})",2
+0.017299847643387233,"frozenset({'red retrospot charlotte bag', 'lunch bag  black skull.'})",2
+0.014989924804639504,"frozenset({'lunch bag cars blue', 'red retrospot charlotte bag'})",2
+0.013613800560279157,"frozenset({'jumbo storage bag suki', 'red retrospot charlotte bag'})",2
+0.01179535066594584,"frozenset({'jumbo bag pink polkadot', 'red retrospot charlotte bag'})",2
+0.01425271538801789,"frozenset({'lunch bag spaceboy design', 'red retrospot charlotte bag'})",2
+0.013122327615864746,"frozenset({'party bunting', 'red retrospot charlotte bag'})",2
+0.013908684326927802,"frozenset({'lunch bag suki design', 'red retrospot charlotte bag'})",2
+0.013368064088071951,"frozenset({'lunch bag apple design', 'red retrospot charlotte bag'})",2
+0.010517521010468373,"frozenset({'lunch bag red retrospot', 'red retrospot charlotte bag', 'lunch bag  black skull.'})",3
+0.024868530987369145,"frozenset({'woodland charlotte bag', 'red retrospot charlotte bag'})",2
+0.022411166265297097,"frozenset({'woodland charlotte bag', 'charlotte bag suki design'})",2
+0.015186513982405269,"frozenset({'lunch bag red retrospot', 'woodland charlotte bag'})",2
+0.014744188332432299,"frozenset({'jumbo bag red retrospot', 'woodland charlotte bag'})",2
+0.013662947854720598,"frozenset({'pack of 72 retrospot cake cases', 'woodland charlotte bag'})",2
+0.01277829655477466,"frozenset({'regency cakestand 3 tier', 'woodland charlotte bag'})",2
+0.010271784538261169,"frozenset({'red toadstool led night light', 'woodland charlotte bag'})",2
+0.012925738438098983,"frozenset({'woodland charlotte bag', 'lunch bag cars blue'})",2
+0.014006978915810684,"frozenset({'woodland charlotte bag', 'lunch bag  black skull.'})",2
+0.01376124244360348,"frozenset({'woodland charlotte bag', 'lunch bag woodland'})",2
+0.011500466899297193,"frozenset({'lunch bag spaceboy design', 'woodland charlotte bag'})",2
+0.011353025015972872,"frozenset({'jumbo bag woodland animals', 'woodland charlotte bag'})",2
+0.011353025015972872,"frozenset({'party bunting', 'woodland charlotte bag'})",2
+0.011107288543765666,"frozenset({'jumbo storage bag suki', 'woodland charlotte bag'})",2
+0.011697056077062958,"frozenset({'woodland charlotte bag', 'lunch bag suki design'})",2
+0.011058141249324225,"frozenset({'woodland charlotte bag', 'lunch bag apple design'})",2
+0.016513490932324175,"frozenset({'woodland charlotte bag', 'charlotte bag suki design', 'red retrospot charlotte bag'})",3
+0.01130387772153143,"frozenset({'lunch bag red retrospot', 'woodland charlotte bag', 'red retrospot charlotte bag'})",3
+0.010468373716026933,"frozenset({'lunch bag red retrospot', 'woodland charlotte bag', 'charlotte bag suki design'})",3
+0.010468373716026933,"frozenset({'jumbo bag red retrospot', 'woodland charlotte bag', 'red retrospot charlotte bag'})",3
+0.010419226421585492,"frozenset({'pack of 72 retrospot cake cases', 'woodland charlotte bag', 'red retrospot charlotte bag'})",3
+0.010763257482675578,"frozenset({'woodland charlotte bag', 'red retrospot charlotte bag', 'lunch bag  black skull.'})",3
+0.011549614193738634,"frozenset({'jumbo bag red retrospot', 'paper bunting retrospot'})",2
+0.011205583132648548,"frozenset({'paper bunting retrospot', 'set/20 red retrospot paper napkins'})",2
+0.012041087138153045,"frozenset({'party bunting', 'paper bunting retrospot'})",2
+0.025654887698432202,"frozenset({'charlotte bag pink polkadot', 'red retrospot charlotte bag'})",2
+0.02015039072099081,"frozenset({'charlotte bag pink polkadot', 'charlotte bag suki design'})",2
+0.019413181304369195,"frozenset({'woodland charlotte bag', 'charlotte bag pink polkadot'})",2
+0.014891630215756622,"frozenset({'lunch bag red retrospot', 'charlotte bag pink polkadot'})",2
+0.01376124244360348,"frozenset({'jumbo bag red retrospot', 'charlotte bag pink polkadot'})",2
+0.012680001965891778,"frozenset({'pack of 72 retrospot cake cases', 'charlotte bag pink polkadot'})",2
+0.01233597090480169,"frozenset({'charlotte bag pink polkadot', 'lunch bag pink polkadot'})",2
+0.010517521010468373,"frozenset({'regency cakestand 3 tier', 'charlotte bag pink polkadot'})",2
+0.01331891679363051,"frozenset({'charlotte bag pink polkadot', 'lunch bag  black skull.'})",2
+0.012385118199243131,"frozenset({'charlotte bag pink polkadot', 'lunch bag cars blue'})",2
+0.010615815599351255,"frozenset({'jumbo bag pink polkadot', 'charlotte bag pink polkadot'})",2
+0.010468373716026933,"frozenset({'jumbo storage bag suki', 'charlotte bag pink polkadot'})",2
+0.011402172310414311,"frozenset({'lunch bag spaceboy design', 'charlotte bag pink polkadot'})",2
+0.010664962893792696,"frozenset({'party bunting', 'charlotte bag pink polkadot'})",2
+0.010026048066053964,"frozenset({'charlotte bag pink polkadot', 'lunch bag woodland'})",2
+0.010615815599351255,"frozenset({'charlotte bag pink polkadot', 'lunch bag suki design'})",2
+0.010271784538261169,"frozenset({'charlotte bag pink polkadot', 'lunch bag apple design'})",2
+0.01616945987123409,"frozenset({'charlotte bag pink polkadot', 'charlotte bag suki design', 'red retrospot charlotte bag'})",3
+0.015972870693468325,"frozenset({'woodland charlotte bag', 'charlotte bag pink polkadot', 'red retrospot charlotte bag'})",3
+0.014351009976900772,"frozenset({'woodland charlotte bag', 'charlotte bag pink polkadot', 'charlotte bag suki design'})",3
+0.01233597090480169,"frozenset({'woodland charlotte bag', 'charlotte bag pink polkadot', 'charlotte bag suki design', 'red retrospot charlotte bag'})",4
+0.01179535066594584,"frozenset({'lunch bag red retrospot', 'charlotte bag pink polkadot', 'red retrospot charlotte bag'})",3
+0.010615815599351255,"frozenset({'jumbo bag red retrospot', 'charlotte bag pink polkadot', 'red retrospot charlotte bag'})",3
+0.010615815599351255,"frozenset({'pack of 72 retrospot cake cases', 'charlotte bag pink polkadot', 'red retrospot charlotte bag'})",3
+0.011058141249324225,"frozenset({'charlotte bag pink polkadot', 'red retrospot charlotte bag', 'lunch bag  black skull.'})",3
+0.01032093183270261,"frozenset({'charlotte bag pink polkadot', 'lunch bag cars blue', 'red retrospot charlotte bag'})",3
+0.023836437804098883,"frozenset({'jumbo bag red retrospot', 'dotcom postage'})",2
+0.016611785521207057,"frozenset({'recycling bag retrospot', 'dotcom postage'})",2
+0.01626775446011697,"frozenset({'dotcom postage', 'green regency teacup and saucer'})",2
+0.015383103160171033,"frozenset({'red toadstool led night light', 'dotcom postage'})",2
+0.014547599154666536,"frozenset({'jam making set printed', 'dotcom postage'})",2
+0.01425271538801789,"frozenset({'natural slate heart chalkboard', 'dotcom postage'})",2
+0.014105273504693566,"frozenset({'roses regency teacup and saucer', 'dotcom postage'})",2
+0.013368064088071951,"frozenset({'white hanging heart t-light holder', 'dotcom postage'})",2
+0.012483412788126013,"frozenset({'jam making set with jars', 'dotcom postage'})",2
+0.012385118199243131,"frozenset({'recipe box pantry yellow design', 'dotcom postage'})",2
+0.011598761488180075,"frozenset({'set/20 red retrospot paper napkins', 'dotcom postage'})",2
+0.011549614193738634,"frozenset({'heart of wicker small', 'dotcom postage'})",2
+0.011205583132648548,"frozenset({'victorian glass hanging t-light', 'dotcom postage'})",2
+0.011008993954882784,"frozenset({'lunch bag red retrospot', 'dotcom postage'})",2
+0.01081240477711702,"frozenset({'paper bunting retrospot', 'dotcom postage'})",2
+0.010468373716026933,"frozenset({'woodland charlotte bag', 'dotcom postage'})",2
+0.01032093183270261,"frozenset({'charlotte bag suki design', 'dotcom postage'})",2
+0.01032093183270261,"frozenset({'pack of 72 retrospot cake cases', 'dotcom postage'})",2
+0.010271784538261169,"frozenset({'dotcom postage', 'red retrospot charlotte bag'})",2
+0.019413181304369195,"frozenset({'jumbo storage bag suki', 'dotcom postage'})",2
+0.017840467882243083,"frozenset({'dotcom postage', 'jumbo shopper vintage red paisley'})",2
+0.016955816582297143,"frozenset({'jumbo bag pink polkadot', 'dotcom postage'})",2
+0.011451319604855752,"frozenset({'dotcom postage', 'jumbo bag pink vintage paisley'})",2
+0.010664962893792696,"frozenset({'party bunting', 'dotcom postage'})",2
+0.0177421732933602,"frozenset({'jumbo bag woodland animals', 'dotcom postage'})",2
+0.011500466899297193,"frozenset({'dolly girl lunch box', 'dotcom postage'})",2
+0.01125473042708999,"frozenset({'dotcom postage', 'wooden picture frame white finish'})",2
+0.013368064088071951,"frozenset({'jumbo  bag baroque black white', 'dotcom postage'})",2
+0.010615815599351255,"frozenset({'dotcom postage', 'pink regency teacup and saucer'})",2
+0.011549614193738634,"frozenset({'set of 3 cake tins pantry design', 'dotcom postage'})",2
+0.010124342654936846,"frozenset({'dotcom postage', 'set of 4 pantry jelly moulds'})",2
+0.012630854671450337,"frozenset({'jumbo bag apples', 'dotcom postage'})",2
+0.012532560082567454,"frozenset({'recycling bag retrospot', 'jumbo bag red retrospot', 'dotcom postage'})",3
+0.010222637243819728,"frozenset({'jumbo storage bag suki', 'dotcom postage', 'recycling bag retrospot'})",3
+0.011156435838207107,"frozenset({'jumbo bag red retrospot', 'dotcom postage', 'green regency teacup and saucer'})",3
+0.011451319604855752,"frozenset({'jumbo bag red retrospot', 'red toadstool led night light', 'dotcom postage'})",3
+0.010075195360495405,"frozenset({'jumbo bag red retrospot', 'jam making set printed', 'dotcom postage'})",3
+0.010026048066053964,"frozenset({'natural slate heart chalkboard', 'jumbo bag red retrospot', 'dotcom postage'})",3
+0.011451319604855752,"frozenset({'roses regency teacup and saucer', 'dotcom postage', 'green regency teacup and saucer'})",3
+0.014154420799135007,"frozenset({'jumbo storage bag suki', 'jumbo bag red retrospot', 'dotcom postage'})",3
+0.01376124244360348,"frozenset({'jumbo bag red retrospot', 'dotcom postage', 'jumbo shopper vintage red paisley'})",3
+0.012532560082567454,"frozenset({'jumbo storage bag suki', 'dotcom postage', 'jumbo shopper vintage red paisley'})",3
+0.013613800560279157,"frozenset({'jumbo bag red retrospot', 'jumbo bag pink polkadot', 'dotcom postage'})",3
+0.011451319604855752,"frozenset({'jumbo storage bag suki', 'jumbo bag pink polkadot', 'dotcom postage'})",3
+0.010910699365999902,"frozenset({'jumbo bag pink polkadot', 'dotcom postage', 'jumbo shopper vintage red paisley'})",3
+0.01130387772153143,"frozenset({'jumbo bag woodland animals', 'jumbo bag pink polkadot', 'dotcom postage'})",3
+0.013417211382513393,"frozenset({'jumbo bag red retrospot', 'jumbo bag woodland animals', 'dotcom postage'})",3
+0.01277829655477466,"frozenset({'jumbo storage bag suki', 'jumbo bag woodland animals', 'dotcom postage'})",3
+0.011697056077062958,"frozenset({'jumbo bag woodland animals', 'dotcom postage', 'jumbo shopper vintage red paisley'})",3
+0.010714110188234137,"frozenset({'jumbo bag red retrospot', 'jumbo  bag baroque black white', 'dotcom postage'})",3
+0.016513490932324175,"frozenset({'suki  shoulder bag', 'dotcom postage'})",2
+0.013859537032486362,"frozenset({'jumbo bag red retrospot', 'suki  shoulder bag'})",2
+0.010714110188234137,"frozenset({'suki  shoulder bag', 'jam making set printed'})",2
+0.010173489949378287,"frozenset({'recycling bag retrospot', 'suki  shoulder bag'})",2
+0.010075195360495405,"frozenset({'suki  shoulder bag', 'charlotte bag suki design'})",2
+0.011549614193738634,"frozenset({'jumbo storage bag suki', 'suki  shoulder bag'})",2
+0.012237676315918808,"frozenset({'jumbo bag red retrospot', 'suki  shoulder bag', 'dotcom postage'})",3
+0.010271784538261169,"frozenset({'suki  shoulder bag', 'jam making set printed', 'dotcom postage'})",3
+0.01326976949918907,"frozenset({'pink blue felt craft trinket box', 'pink cream felt craft trinket box'})",2
+0.010124342654936846,"frozenset({'dotcom postage', 'set of 72 pink heart paper doilies'})",2
+0.013613800560279157,"frozenset({'strawberry ceramic trinket box', 'sweetheart ceramic trinket box'})",2
+0.010026048066053964,"frozenset({'pink fairy cake childrens apron', 'childrens apron spaceboy design'})",2
+0.01130387772153143,"frozenset({'dotcom postage', 'floral folk stationery set'})",2
+0.010959846660441343,"frozenset({'vintage paisley stationery set', 'floral folk stationery set'})",2
+0.010517521010468373,"frozenset({'modern floral stationery set', 'floral folk stationery set'})",2
+0.010566668304909814,"frozenset({'charlie+lola pink hot water bottle', 'dotcom postage'})",2
+0.010517521010468373,"frozenset({'blue stripe ceramic drawer knob', 'blue spot ceramic drawer knob'})",2
+0.010271784538261169,"frozenset({'red stripe ceramic drawer knob', 'blue spot ceramic drawer knob'})",2
+0.01130387772153143,"frozenset({'white hanging heart t-light holder', 'please one person metal sign'})",2
+0.010763257482675578,"frozenset({'jumbo bag red retrospot', 'please one person metal sign'})",2
+0.013810389738044921,"frozenset({'wooden tree christmas scandinavian', 'wooden star christmas scandinavian'})",2
+0.012237676315918808,"frozenset({'wooden tree christmas scandinavian', 'wooden heart christmas scandinavian'})",2
+0.011353025015972872,"frozenset({'wooden tree christmas scandinavian', 'wooden heart christmas scandinavian', 'wooden star christmas scandinavian'})",3
+0.01906915024327911,"frozenset({'wooden star christmas scandinavian', 'wooden heart christmas scandinavian'})",2
+0.013613800560279157,"frozenset({'alarm clock bakelike chocolate', 'alarm clock bakelike green'})",2
+0.01081240477711702,"frozenset({'alarm clock bakelike chocolate', 'alarm clock bakelike pink'})",2
+0.014351009976900772,"frozenset({'alarm clock bakelike chocolate', 'alarm clock bakelike red'})",2
+0.011058141249324225,"frozenset({'alarm clock bakelike chocolate', 'alarm clock bakelike red', 'alarm clock bakelike green'})",3
+0.012729149260333219,"frozenset({'assorted colour bird ornament', 'painted metal pears assorted'})",2
+0.014154420799135007,"frozenset({'jumbo bag red retrospot', 'red retrospot shopper bag'})",2
+0.010026048066053964,"frozenset({'tea time party bunting', 'party bunting'})",2
+0.012876591143657542,"frozenset({'pink happy birthday bunting', 'blue happy birthday bunting'})",2
+0.010615815599351255,"frozenset({'white spot red ceramic drawer knob', 'red spot ceramic drawer knob'})",2
+0.010124342654936846,"frozenset({'red spot ceramic drawer knob', 'blue spot ceramic drawer knob'})",2
+0.011451319604855752,"frozenset({'red stripe ceramic drawer knob', 'red spot ceramic drawer knob'})",2
+0.012876591143657542,"frozenset({""poppy's playhouse livingroom"", ""poppy's playhouse kitchen""})",2
+0.01277829655477466,"frozenset({""poppy's playhouse bedroom"", ""poppy's playhouse livingroom""})",2
+0.011008993954882784,"frozenset({""poppy's playhouse bedroom"", ""poppy's playhouse livingroom"", ""poppy's playhouse kitchen""})",3
+0.016415196343441293,"frozenset({'baking set spaceboy design', 'baking set 9 piece retrospot'})",2
+0.012286823610360249,"frozenset({'red stripe ceramic drawer knob', 'blue stripe ceramic drawer knob'})",2
+0.010124342654936846,"frozenset({'white spot blue ceramic drawer knob', 'blue spot ceramic drawer knob'})",2
+0.021133336609819628,"frozenset({'jumbo bag red retrospot', 'jumbo bag spaceboy design'})",2
+0.010124342654936846,"frozenset({'jumbo bag spaceboy design', 'jumbo bag pink vintage paisley'})",2
+0.011008993954882784,"frozenset({'jumbo bag spaceboy design', 'jumbo storage bag skulls'})",2
+0.010222637243819728,"frozenset({'lunch bag red retrospot', 'jumbo bag spaceboy design'})",2
+0.016955816582297143,"frozenset({'jumbo storage bag suki', 'jumbo bag spaceboy design'})",2
+0.013466358676954834,"frozenset({'jumbo bag spaceboy design', 'jumbo shopper vintage red paisley'})",2
+0.01130387772153143,"frozenset({'jumbo  bag baroque black white', 'jumbo bag spaceboy design'})",2
+0.0166609328156485,"frozenset({'jumbo bag spaceboy design', 'jumbo bag pink polkadot'})",2
+0.010222637243819728,"frozenset({'jumbo bag spaceboy design', 'dotcom postage'})",2
+0.014351009976900772,"frozenset({'jumbo bag woodland animals', 'jumbo bag spaceboy design'})",2
+0.01179535066594584,"frozenset({'jumbo bag spaceboy design', 'jumbo bag apples'})",2
+0.012581707377008896,"frozenset({'jumbo storage bag suki', 'jumbo bag red retrospot', 'jumbo bag spaceboy design'})",3
+0.010370079127144051,"frozenset({'jumbo bag red retrospot', 'jumbo bag spaceboy design', 'jumbo shopper vintage red paisley'})",3
+0.012974885732540424,"frozenset({'jumbo bag red retrospot', 'jumbo bag spaceboy design', 'jumbo bag pink polkadot'})",3
+0.010714110188234137,"frozenset({'jumbo bag red retrospot', 'jumbo bag woodland animals', 'jumbo bag spaceboy design'})",3
+0.010222637243819728,"frozenset({'blue polkadot bowl', 'pink polkadot bowl'})",2
+0.010222637243819728,"frozenset({'blue polkadot cup', 'pink  polkadot cup'})",2
+0.01032093183270261,"frozenset({'key fob , shed', 'key fob , back door'})",2
+0.016120312576792646,"frozenset({'jumbo bag red retrospot', 'party bunting'})",2
+0.019413181304369195,"frozenset({'party bunting', 'regency cakestand 3 tier'})",2
+0.019118297537720548,"frozenset({'party bunting', 'white hanging heart t-light holder'})",2
+0.010075195360495405,"frozenset({'natural slate heart chalkboard', 'natural slate chalkboard large'})",2
+0.011107288543765666,"frozenset({'strawberry lunch box with cutlery', 'skull lunch box with cutlery'})",2
+0.01179535066594584,"frozenset({'jumbo bag red retrospot', 'red retrospot picnic bag'})",2
+0.011205583132648548,"frozenset({'lunch bag red retrospot', 'red retrospot picnic bag'})",2
+0.01376124244360348,"frozenset({'pink vintage paisley picnic bag', 'scandinavian paisley picnic bag'})",2
+0.010026048066053964,"frozenset({'small dolly mix design orange bowl', 'small chocolates pink bowl'})",2
+0.011058141249324225,"frozenset({'white hanging heart t-light holder', 'hanging heart jar t-light holder'})",2
+0.017152405760062907,"frozenset({'small marshmallows pink bowl', 'small dolly mix design orange bowl'})",2
+0.031110237381432152,"frozenset({'green regency teacup and saucer', 'pink regency teacup and saucer'})",2
+0.019265739421044873,"frozenset({'regency cakestand 3 tier', 'pink regency teacup and saucer'})",2
+0.029439229370423158,"frozenset({'roses regency teacup and saucer', 'pink regency teacup and saucer'})",2
+0.01685752199341426,"frozenset({'regency cakestand 3 tier', 'green regency teacup and saucer', 'pink regency teacup and saucer'})",3
+0.01626775446011697,"frozenset({'regency cakestand 3 tier', 'roses regency teacup and saucer', 'pink regency teacup and saucer'})",3
+0.01479333562687374,"frozenset({'regency cakestand 3 tier', 'roses regency teacup and saucer', 'green regency teacup and saucer', 'pink regency teacup and saucer'})",4
+0.02663783358726102,"frozenset({'roses regency teacup and saucer', 'green regency teacup and saucer', 'pink regency teacup and saucer'})",3
+0.015874576104585442,"frozenset({'white hanging heart t-light holder', 'set of 3 cake tins pantry design'})",2
+0.014989924804639504,"frozenset({'jumbo bag red retrospot', 'set of 3 cake tins pantry design'})",2
+0.015333955865729592,"frozenset({'regency cakestand 3 tier', 'set of 3 cake tins pantry design'})",2
+0.010615815599351255,"frozenset({'lunch bag red retrospot', 'set of 3 cake tins pantry design'})",2
+0.012139381727035927,"frozenset({'party bunting', 'set of 3 cake tins pantry design'})",2
+0.02015039072099081,"frozenset({'set of 3 cake tins pantry design', 'set of 6 spice tins pantry design'})",2
+0.013171474910306187,"frozenset({'jam making set with jars', 'set of 6 spice tins pantry design'})",2
+0.011107288543765666,"frozenset({'jam making set printed', 'set of 6 spice tins pantry design'})",2
+0.010124342654936846,"frozenset({'white hanging heart t-light holder', 'set of 6 spice tins pantry design'})",2
+0.012237676315918808,"frozenset({'recipe box pantry yellow design', 'set of 6 spice tins pantry design'})",2
+0.010026048066053964,"frozenset({'set of 6 spice tins pantry design', 'set of 4 pantry jelly moulds'})",2
+0.012680001965891778,"frozenset({'retrospot tea set ceramic 11 pc', 'baking set 9 piece retrospot'})",2
+0.015186513982405269,"frozenset({'jam making set with jars', 'set of 4 pantry jelly moulds'})",2
+0.014645893743549418,"frozenset({'set of 3 cake tins pantry design', 'set of 4 pantry jelly moulds'})",2
+0.013613800560279157,"frozenset({'jam making set printed', 'set of 4 pantry jelly moulds'})",2
+0.013073180321423305,"frozenset({'jumbo bag red retrospot', 'set of 4 pantry jelly moulds'})",2
+0.012925738438098983,"frozenset({'white hanging heart t-light holder', 'set of 4 pantry jelly moulds'})",2
+0.013564653265837716,"frozenset({'recipe box pantry yellow design', 'set of 4 pantry jelly moulds'})",2
+0.012286823610360249,"frozenset({'pack of 72 retrospot cake cases', 'set of 4 pantry jelly moulds'})",2
+0.011156435838207107,"frozenset({'regency cakestand 3 tier', 'set of 4 pantry jelly moulds'})",2
+0.01130387772153143,"frozenset({'party bunting', 'set of 4 pantry jelly moulds'})",2
+0.010419226421585492,"frozenset({'travel card wallet vintage ticket', 'travel card wallet keep calm'})",2
+0.01081240477711702,"frozenset({'childrens cutlery polkadot blue', 'childrens cutlery polkadot pink'})",2
+0.01616945987123409,"frozenset({'jumbo bag red retrospot', 'lunch bag suki design'})",2
+0.014989924804639504,"frozenset({'jumbo storage bag suki', 'lunch bag suki design'})",2
+0.027325895709441196,"frozenset({'lunch bag red retrospot', 'lunch bag suki design'})",2
+0.02314837568191871,"frozenset({'lunch bag cars blue', 'lunch bag suki design'})",2
+0.022362018970855654,"frozenset({'lunch bag spaceboy design', 'lunch bag suki design'})",2
+0.020396127193198013,"frozenset({'lunch bag pink polkadot', 'lunch bag suki design'})",2
+0.025310856637342113,"frozenset({'lunch bag suki design', 'lunch bag  black skull.'})",2
+0.012483412788126013,"frozenset({'party bunting', 'lunch bag suki design'})",2
+0.011500466899297193,"frozenset({'white hanging heart t-light holder', 'lunch bag suki design'})",2
+0.010714110188234137,"frozenset({'pack of 72 retrospot cake cases', 'lunch bag suki design'})",2
+0.010566668304909814,"frozenset({'jumbo bag pink polkadot', 'lunch bag suki design'})",2
+0.011205583132648548,"frozenset({'lunch bag suki design', 'jumbo shopper vintage red paisley'})",2
+0.010075195360495405,"frozenset({'lunch bag red retrospot', 'jumbo bag red retrospot', 'lunch bag suki design'})",3
+0.014547599154666536,"frozenset({'lunch bag red retrospot', 'lunch bag cars blue', 'lunch bag suki design'})",3
+0.013957831621369243,"frozenset({'lunch bag cars blue', 'lunch bag suki design', 'lunch bag  black skull.'})",3
+0.010173489949378287,"frozenset({'lunch bag red retrospot', 'lunch bag cars blue', 'lunch bag suki design', 'lunch bag  black skull.'})",4
+0.013957831621369243,"frozenset({'lunch bag red retrospot', 'lunch bag spaceboy design', 'lunch bag suki design'})",3
+0.012876591143657542,"frozenset({'lunch bag spaceboy design', 'lunch bag cars blue', 'lunch bag suki design'})",3
+0.013564653265837716,"frozenset({'lunch bag spaceboy design', 'lunch bag suki design', 'lunch bag  black skull.'})",3
+0.014449304565783654,"frozenset({'lunch bag red retrospot', 'lunch bag pink polkadot', 'lunch bag suki design'})",3
+0.01179535066594584,"frozenset({'lunch bag suki design', 'lunch bag pink polkadot', 'lunch bag cars blue'})",3
+0.010271784538261169,"frozenset({'lunch bag spaceboy design', 'lunch bag pink polkadot', 'lunch bag suki design'})",3
+0.012974885732540424,"frozenset({'lunch bag pink polkadot', 'lunch bag suki design', 'lunch bag  black skull.'})",3
+0.010075195360495405,"frozenset({'lunch bag red retrospot', 'lunch bag pink polkadot', 'lunch bag suki design', 'lunch bag  black skull.'})",4
+0.015874576104585442,"frozenset({'lunch bag red retrospot', 'lunch bag suki design', 'lunch bag  black skull.'})",3
+0.022017987909765568,"frozenset({'jumbo bag red retrospot', 'jumbo bag scandinavian blue paisley'})",2
+0.016906669287855704,"frozenset({'jumbo bag scandinavian blue paisley', 'jumbo bag pink vintage paisley'})",2
+0.010370079127144051,"frozenset({'jumbo bag scandinavian blue paisley', 'dotcom postage'})",2
+0.01562883963237824,"frozenset({'jumbo bag pink polkadot', 'jumbo bag scandinavian blue paisley'})",2
+0.014842482921315181,"frozenset({'jumbo storage bag suki', 'jumbo bag scandinavian blue paisley'})",2
+0.012385118199243131,"frozenset({'jumbo  bag baroque black white', 'jumbo bag scandinavian blue paisley'})",2
+0.011156435838207107,"frozenset({'jumbo bag woodland animals', 'jumbo bag scandinavian blue paisley'})",2
+0.01725070034894579,"frozenset({'jumbo bag scandinavian blue paisley', 'jumbo shopper vintage red paisley'})",2
+0.012286823610360249,"frozenset({'jumbo bag scandinavian blue paisley', 'jumbo bag apples'})",2
+0.012385118199243131,"frozenset({'jumbo bag red retrospot', 'jumbo bag scandinavian blue paisley', 'jumbo bag pink vintage paisley'})",3
+0.013171474910306187,"frozenset({'jumbo bag red retrospot', 'jumbo bag pink polkadot', 'jumbo bag scandinavian blue paisley'})",3
+0.010468373716026933,"frozenset({'jumbo bag pink polkadot', 'jumbo bag scandinavian blue paisley', 'jumbo shopper vintage red paisley'})",3
+0.011942792549270163,"frozenset({'jumbo storage bag suki', 'jumbo bag red retrospot', 'jumbo bag scandinavian blue paisley'})",3
+0.010763257482675578,"frozenset({'jumbo storage bag suki', 'jumbo bag scandinavian blue paisley', 'jumbo shopper vintage red paisley'})",3
+0.010370079127144051,"frozenset({'jumbo bag red retrospot', 'jumbo  bag baroque black white', 'jumbo bag scandinavian blue paisley'})",3
+0.013515505971396275,"frozenset({'jumbo bag red retrospot', 'jumbo bag scandinavian blue paisley', 'jumbo shopper vintage red paisley'})",3
+0.01086155207155846,"frozenset({'childrens cutlery dolly girl', 'childrens cutlery spaceboy'})",2
+0.023934732392981765,"frozenset({'lunch bag red retrospot', 'lunch bag apple design'})",2
+0.018037057060008847,"frozenset({'lunch bag cars blue', 'lunch bag apple design'})",2
+0.022067135204207007,"frozenset({'lunch bag suki design', 'lunch bag apple design'})",2
+0.019314886715486312,"frozenset({'lunch bag spaceboy design', 'lunch bag apple design'})",2
+0.014547599154666536,"frozenset({'jumbo bag red retrospot', 'lunch bag apple design'})",2
+0.020396127193198013,"frozenset({'lunch bag apple design', 'lunch bag  black skull.'})",2
+0.017152405760062907,"frozenset({'lunch bag pink polkadot', 'lunch bag apple design'})",2
+0.012041087138153045,"frozenset({'party bunting', 'lunch bag apple design'})",2
+0.010615815599351255,"frozenset({'spotty bunting', 'lunch bag apple design'})",2
+0.011205583132648548,"frozenset({'lunch bag red retrospot', 'lunch bag cars blue', 'lunch bag apple design'})",3
+0.011893645254828722,"frozenset({'lunch bag suki design', 'lunch bag cars blue', 'lunch bag apple design'})",3
+0.010959846660441343,"frozenset({'lunch bag cars blue', 'lunch bag apple design', 'lunch bag  black skull.'})",3
+0.010173489949378287,"frozenset({'lunch bag spaceboy design', 'lunch bag cars blue', 'lunch bag apple design'})",3
+0.013859537032486362,"frozenset({'lunch bag red retrospot', 'lunch bag suki design', 'lunch bag apple design'})",3
+0.012237676315918808,"frozenset({'lunch bag red retrospot', 'lunch bag spaceboy design', 'lunch bag apple design'})",3
+0.01179535066594584,"frozenset({'lunch bag spaceboy design', 'lunch bag suki design', 'lunch bag apple design'})",3
+0.011451319604855752,"frozenset({'lunch bag spaceboy design', 'lunch bag apple design', 'lunch bag  black skull.'})",3
+0.013368064088071951,"frozenset({'lunch bag red retrospot', 'lunch bag apple design', 'lunch bag  black skull.'})",3
+0.013171474910306187,"frozenset({'lunch bag suki design', 'lunch bag apple design', 'lunch bag  black skull.'})",3
+0.011697056077062958,"frozenset({'lunch bag red retrospot', 'lunch bag pink polkadot', 'lunch bag apple design'})",3
+0.010173489949378287,"frozenset({'lunch bag suki design', 'lunch bag pink polkadot', 'lunch bag apple design'})",3
+0.010075195360495405,"frozenset({'lunch bag pink polkadot', 'lunch bag apple design', 'lunch bag  black skull.'})",3
+0.018479382709981815,"frozenset({'jumbo storage bag suki', 'jumbo bag apples'})",2
+0.017938762471125965,"frozenset({'jumbo bag apples', 'lunch bag apple design'})",2
+0.01331891679363051,"frozenset({'lunch bag red retrospot', 'jumbo bag apples'})",2
+0.011008993954882784,"frozenset({'jumbo bag apples', 'lunch bag cars blue'})",2
+0.026834422765026785,"frozenset({'jumbo bag red retrospot', 'jumbo bag apples'})",2
+0.011500466899297193,"frozenset({'jumbo bag apples', 'lunch bag suki design'})",2
+0.010566668304909814,"frozenset({'white hanging heart t-light holder', 'jumbo bag apples'})",2
+0.017938762471125965,"frozenset({'jumbo bag pink polkadot', 'jumbo bag apples'})",2
+0.016366049048999853,"frozenset({'jumbo bag apples', 'jumbo shopper vintage red paisley'})",2
+0.011058141249324225,"frozenset({'jumbo bag apples', 'lunch bag  black skull.'})",2
+0.011008993954882784,"frozenset({'jumbo bag apples', 'lunch bag pink polkadot'})",2
+0.010468373716026933,"frozenset({'jumbo bag apples', 'red retrospot charlotte bag'})",2
+0.010026048066053964,"frozenset({'jumbo bag apples', 'lunch bag woodland'})",2
+0.013810389738044921,"frozenset({'jumbo storage bag suki', 'jumbo bag red retrospot', 'jumbo bag apples'})",3
+0.014203568093576448,"frozenset({'jumbo bag red retrospot', 'jumbo bag pink polkadot', 'jumbo bag apples'})",3
+0.010419226421585492,"frozenset({'jumbo storage bag suki', 'jumbo bag pink polkadot', 'jumbo bag apples'})",3
+0.012090234432594486,"frozenset({'jumbo bag red retrospot', 'jumbo bag apples', 'jumbo shopper vintage red paisley'})",3
+0.010075195360495405,"frozenset({'jumbo storage bag suki', 'jumbo bag apples', 'jumbo shopper vintage red paisley'})",3
+0.01921659212660343,"frozenset({'jumbo bag alphabet', 'jumbo bag apples'})",2
+0.014351009976900772,"frozenset({'jumbo storage bag suki', 'jumbo bag alphabet'})",2
+0.01125473042708999,"frozenset({'jumbo bag alphabet', 'lunch bag apple design'})",2
+0.010959846660441343,"frozenset({'jumbo bag alphabet', 'jumbo  bag baroque black white'})",2
+0.01032093183270261,"frozenset({'jumbo bag alphabet', 'lunch bag red retrospot'})",2
+0.020346979898756574,"frozenset({'jumbo bag alphabet', 'jumbo bag red retrospot'})",2
+0.013368064088071951,"frozenset({'jumbo bag alphabet', 'jumbo bag pink polkadot'})",2
+0.012532560082567454,"frozenset({'jumbo bag alphabet', 'jumbo shopper vintage red paisley'})",2
+0.011549614193738634,"frozenset({'jumbo bag alphabet', 'jumbo bag red retrospot', 'jumbo bag apples'})",3
+0.010124342654936846,"frozenset({'jumbo storage bag suki', 'jumbo bag red retrospot', 'jumbo bag alphabet'})",3
+0.010026048066053964,"frozenset({'jumbo bag alphabet', 'jumbo bag red retrospot', 'jumbo bag pink polkadot'})",3
+0.018331940826657494,"frozenset({'lunch bag alphabet design', 'lunch bag apple design'})",2
+0.01523566127684671,"frozenset({'lunch bag red retrospot', 'lunch bag alphabet design'})",2
+0.013859537032486362,"frozenset({'lunch bag alphabet design', 'lunch bag cars blue'})",2
+0.012680001965891778,"frozenset({'jumbo bag alphabet', 'lunch bag alphabet design'})",2
+0.015677986926819678,"frozenset({'lunch bag alphabet design', 'lunch bag suki design'})",2
+0.014940777510198063,"frozenset({'lunch bag spaceboy design', 'lunch bag alphabet design'})",2
+0.014891630215756622,"frozenset({'lunch bag alphabet design', 'lunch bag  black skull.'})",2
+0.012434265493684572,"frozenset({'lunch bag alphabet design', 'lunch bag pink polkadot'})",2
+0.01233597090480169,"frozenset({'lunch bag alphabet design', 'lunch bag woodland'})",2
+0.010075195360495405,"frozenset({'lunch bag suki design', 'lunch bag alphabet design', 'lunch bag apple design'})",3
+0.014056126210252125,"frozenset({'lunch bag apple design', 'charlotte bag apples design'})",2
+0.011647908782621516,"frozenset({'jumbo bag apples', 'charlotte bag apples design'})",2
+0.010910699365999902,"frozenset({'lunch bag red retrospot', 'charlotte bag apples design'})",2
+0.01616945987123409,"frozenset({'red retrospot charlotte bag', 'charlotte bag apples design'})",2
+0.014744188332432299,"frozenset({'charlotte bag suki design', 'charlotte bag apples design'})",2
+0.01425271538801789,"frozenset({'woodland charlotte bag', 'charlotte bag apples design'})",2
+0.012680001965891778,"frozenset({'charlotte bag apples design', 'strawberry charlotte bag'})",2
+0.012237676315918808,"frozenset({'charlotte bag pink polkadot', 'charlotte bag apples design'})",2
+0.010959846660441343,"frozenset({'charlotte bag suki design', 'red retrospot charlotte bag', 'charlotte bag apples design'})",3
+0.010615815599351255,"frozenset({'woodland charlotte bag', 'red retrospot charlotte bag', 'charlotte bag apples design'})",3
+0.01032093183270261,"frozenset({'woodland charlotte bag', 'charlotte bag suki design', 'charlotte bag apples design'})",3
+0.010517521010468373,"frozenset({'charlotte bag apples design', 'red retrospot charlotte bag', 'strawberry charlotte bag'})",3
+0.010517521010468373,"frozenset({'charlotte bag pink polkadot', 'red retrospot charlotte bag', 'charlotte bag apples design'})",3
+0.011451319604855752,"frozenset({'charlotte bag vintage alphabet', 'charlotte bag apples design'})",2
+0.01233597090480169,"frozenset({'charlotte bag vintage alphabet', 'red retrospot charlotte bag'})",2
+0.011942792549270163,"frozenset({'charlotte bag suki design', 'charlotte bag vintage alphabet'})",2
+0.010468373716026933,"frozenset({'woodland charlotte bag', 'charlotte bag vintage alphabet'})",2
+0.010222637243819728,"frozenset({'charlotte bag pink polkadot', 'charlotte bag vintage alphabet'})",2
+0.010124342654936846,"frozenset({'charlotte bag vintage alphabet', 'strawberry charlotte bag'})",2
+0.01371209514916204,"frozenset({'lunch bag alphabet design', 'lunch bag vintage leaf design'})",2
+0.0177421732933602,"frozenset({'lunch bag apple design', 'lunch bag vintage leaf design'})",2
+0.014989924804639504,"frozenset({'lunch bag red retrospot', 'lunch bag vintage leaf design'})",2
+0.014498451860225095,"frozenset({'lunch bag suki design', 'lunch bag vintage leaf design'})",2
+0.012925738438098983,"frozenset({'lunch bag spaceboy design', 'lunch bag vintage leaf design'})",2
+0.014400157271342213,"frozenset({'lunch bag  black skull.', 'lunch bag vintage leaf design'})",2
+0.011746203371504399,"frozenset({'lunch bag cars blue', 'lunch bag vintage leaf design'})",2
+0.01086155207155846,"frozenset({'lunch bag pink polkadot', 'lunch bag vintage leaf design'})",2
+0.011058141249324225,"frozenset({'lunch bag woodland', 'lunch bag vintage leaf design'})",2
+0.011549614193738634,"frozenset({'jumbo bag vintage leaf', 'lunch bag vintage leaf design'})",2
+0.010075195360495405,"frozenset({'lunch bag red retrospot', 'lunch bag apple design', 'lunch bag vintage leaf design'})",3
+0.010026048066053964,"frozenset({'lunch bag suki design', 'lunch bag apple design', 'lunch bag vintage leaf design'})",3
+0.023738143215216,"frozenset({'spotty bunting', 'party bunting'})",2
+0.01081240477711702,"frozenset({'spotty bunting', 'white hanging heart t-light holder'})",2
+0.010910699365999902,"frozenset({'spotty bunting', 'jumbo bag red retrospot'})",2
+0.010714110188234137,"frozenset({'spotty bunting', 'lunch bag red retrospot'})",2
+0.020887600137612424,"frozenset({'jumbo bag red retrospot', 'jumbo bag vintage leaf'})",2
+0.017889615176684522,"frozenset({'jumbo bag apples', 'jumbo bag vintage leaf'})",2
+0.01179535066594584,"frozenset({'jumbo bag pink polkadot', 'jumbo bag vintage leaf'})",2
+0.011500466899297193,"frozenset({'lunch bag red retrospot', 'jumbo bag vintage leaf'})",2
+0.010124342654936846,"frozenset({'jumbo bag vintage leaf', 'lunch bag  black skull.'})",2
+0.015579692337936796,"frozenset({'jumbo bag alphabet', 'jumbo bag vintage leaf'})",2
+0.013122327615864746,"frozenset({'jumbo storage bag suki', 'jumbo bag vintage leaf'})",2
+0.011500466899297193,"frozenset({'lunch bag apple design', 'jumbo bag vintage leaf'})",2
+0.012630854671450337,"frozenset({'jumbo shopper vintage red paisley', 'jumbo bag vintage leaf'})",2
+0.011008993954882784,"frozenset({'jumbo bag red retrospot', 'jumbo bag apples', 'jumbo bag vintage leaf'})",3
+0.019953801543225045,"frozenset({'jumbo bag pears', 'jumbo bag apples'})",2
+0.015432250454612474,"frozenset({'jumbo bag pears', 'jumbo bag vintage leaf'})",2
+0.01425271538801789,"frozenset({'jumbo bag pears', 'jumbo bag red retrospot'})",2
+0.01125473042708999,"frozenset({'jumbo bag pears', 'jumbo bag alphabet'})",2
+0.011205583132648548,"frozenset({'jumbo bag pears', 'lunch bag apple design'})",2
+0.011893645254828722,"frozenset({'jumbo bag pears', 'jumbo bag apples', 'jumbo bag vintage leaf'})",3
+0.011205583132648548,"frozenset({'jumbo bag pears', 'jumbo bag red retrospot', 'jumbo bag apples'})",3
+0.01130387772153143,"frozenset({'jumbo bag doiley patterns', 'jumbo bag vintage leaf'})",2
+0.010664962893792696,"frozenset({'jumbo bag red retrospot', 'jumbo bag doiley patterns'})",2
+0.011156435838207107,"frozenset({'lunch bag doiley pattern', 'jumbo bag doiley patterns'})",2
+0.010173489949378287,"frozenset({'lunch bag doiley pattern', 'lunch bag apple design'})",2
+0.013515505971396275,"frozenset({'roses regency teacup and saucer', 'regency tea plate roses'})",2
+0.011008993954882784,"frozenset({'green regency teacup and saucer', 'regency tea plate roses'})",2
+0.010124342654936846,"frozenset({'regency cakestand 3 tier', 'regency tea plate roses'})",2
+0.011647908782621516,"frozenset({'regency teapot roses', 'roses regency teacup and saucer'})",2
+0.011107288543765666,"frozenset({'regency teapot roses', 'regency cakestand 3 tier'})",2
+0.015677986926819678,"frozenset({'regency tea plate green', 'regency tea plate roses'})",2
+0.011942792549270163,"frozenset({'regency tea plate green', 'green regency teacup and saucer'})",2
+0.011205583132648548,"frozenset({'regency tea plate green', 'roses regency teacup and saucer'})",2
+0.010173489949378287,"frozenset({'regency tea plate green', 'roses regency teacup and saucer', 'regency tea plate roses'})",3
+0.011107288543765666,"frozenset({'regency milk jug pink', 'regency teapot roses'})",2
+0.011942792549270163,"frozenset({'regency milk jug pink', 'regency sugar bowl green'})",2
+0.011451319604855752,"frozenset({'regency teapot roses', 'regency sugar bowl green'})",2
+0.013662947854720598,"frozenset({'regency tea plate pink', 'regency tea plate green'})",2
+0.013220622204747628,"frozenset({'regency tea plate pink', 'regency tea plate roses'})",2
+0.012532560082567454,"frozenset({'regency tea plate pink', 'regency tea plate green', 'regency tea plate roses'})",3
+0.010910699365999902,"frozenset({'white hanging heart t-light holder', 'gardeners kneeling pad keep calm'})",2
+0.011697056077062958,"frozenset({'jumbo bag red retrospot', 'gardeners kneeling pad keep calm'})",2
+0.026834422765026785,"frozenset({'gardeners kneeling pad keep calm', 'gardeners kneeling pad cup of tea'})",2
+0.010222637243819728,"frozenset({'set of 60 i love london cake cases', 'set of 60 pantry design cake cases'})",2
+0.011549614193738634,"frozenset({'pack of 72 retrospot cake cases', 'set of 60 pantry design cake cases'})",2
+0.010026048066053964,"frozenset({'set of 60 pantry design cake cases', 'set of 3 regency cake tins'})",2
+0.011156435838207107,"frozenset({'set of 60 vintage leaf cake cases', 'set of 60 pantry design cake cases'})",2
+0.01331891679363051,"frozenset({'set of tea coffee sugar tins pantry', 'set of 3 cake tins pantry design'})",2
+0.015137366687963828,"frozenset({'regency cakestand 3 tier', 'set of 3 regency cake tins'})",2
+0.013368064088071951,"frozenset({'set of 3 cake tins pantry design', 'set of 3 regency cake tins'})",2
+0.010026048066053964,"frozenset({'jam making set printed', 'set of 3 regency cake tins'})",2
+0.01130387772153143,"frozenset({'roses regency teacup and saucer', 'set of 3 regency cake tins'})",2
+0.010910699365999902,"frozenset({'green regency teacup and saucer', 'set of 3 regency cake tins'})",2
+0.011008993954882784,"frozenset({'heart of wicker small', 'small white heart of wicker'})",2
+0.010714110188234137,"frozenset({'set of 3 wooden heart decorations', 'set of 3 wooden stocking decoration'})",2
+0.010763257482675578,"frozenset({'set of 3 wooden tree decorations', 'set of 3 wooden stocking decoration'})",2
+0.010370079127144051,"frozenset({'set of 3 wooden heart decorations', 'set of 3 wooden tree decorations'})",2
+0.014645893743549418,"frozenset({'large white heart of wicker', 'small white heart of wicker'})",2
+0.015825428810144003,"frozenset({'jumbo bag vintage christmas', ""jumbo bag 50's christmas""})",2
+0.012434265493684572,"frozenset({'jumbo bag red retrospot', ""jumbo bag 50's christmas""})",2
+0.012729149260333219,"frozenset({""jumbo bag 50's christmas"", ""paper chain kit 50's christmas""})",2
+0.015039072099080945,"frozenset({'set of 12 mini loaf baking cases', 'set of 12 fairy cake baking cases'})",2
+0.012729149260333219,"frozenset({'set of 6 tea time baking cases', 'set of 12 fairy cake baking cases'})",2
+0.01130387772153143,"frozenset({'set of 6 tea time baking cases', 'set of 12 mini loaf baking cases'})",2
+0.012434265493684572,"frozenset({'set of 6 snack loaf baking cases', 'set of 12 fairy cake baking cases'})",2
+0.011549614193738634,"frozenset({'set of 12 mini loaf baking cases', 'set of 6 snack loaf baking cases'})",2
+0.010173489949378287,"frozenset({'set of 6 tea time baking cases', 'set of 6 snack loaf baking cases'})",2
+0.017496436821152997,"frozenset({'jumbo bag red retrospot', 'jumbo bag vintage doily'})",2
+0.013810389738044921,"frozenset({'jumbo bag vintage doily', 'jumbo bag vintage leaf'})",2
+0.011598761488180075,"frozenset({'jumbo bag vintage doily', 'jumbo bag apples'})",2
+0.011058141249324225,"frozenset({'jumbo bag vintage doily', ""jumbo bag 50's christmas""})",2
+0.013662947854720598,"frozenset({'lunch bag red retrospot', 'lunch bag vintage doily'})",2
+0.013417211382513393,"frozenset({'jumbo bag vintage doily', 'lunch bag vintage doily'})",2
+0.011451319604855752,"frozenset({'lunch bag vintage doily', 'lunch bag  black skull.'})",2
+0.010566668304909814,"frozenset({'lunch bag vintage doily', 'lunch bag suki design'})",2
+0.010468373716026933,"frozenset({'lunch bag spaceboy design', 'lunch bag vintage doily'})",2
+0.010075195360495405,"frozenset({'lunch bag vintage doily', 'lunch bag pink polkadot'})",2
+0.011402172310414311,"frozenset({'lunch bag vintage doily', 'lunch bag apple design'})",2
+0.011598761488180075,"frozenset({'hot water bottle keep calm', 'love hot water bottle'})",2
+0.013220622204747628,"frozenset({'hot water bottle keep calm', 'chocolate hot water bottle'})",2
+0.010714110188234137,"frozenset({'hand warmer red love heart', 'hand warmer owl design'})",2
